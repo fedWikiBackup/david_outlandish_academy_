@@ -1,0 +1,358 @@
+{
+  "journal": [
+    {
+      "date": 1424552048511,
+      "item": {
+        "story": "",
+        "title": "Precedents to Hypertext"
+      },
+      "type": "create"
+    },
+    {
+      "date": 1424552050504,
+      "id": "2a68e47c77a30771",
+      "item": {
+        "id": "2a68e47c77a30771",
+        "type": "factory"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424552082093,
+      "id": "2a68e47c77a30771",
+      "item": {
+        "id": "2a68e47c77a30771",
+        "text": "Paul Otlet's ideas for Cataloging the World, book by Alex Wright [http://www.catalogingtheworld.com/ link]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424552159613,
+      "id": "2a68e47c77a30771",
+      "item": {
+        "id": "2a68e47c77a30771",
+        "text": "Paul Otlet's ideas for Cataloging the World, book by Alex Wright [http://www.catalogingtheworld.com/ link] envisioned as an \"internet of paper\" or the Mundaneum [http://en.wikipedia.org/wiki/Mundaneum wikipedia]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "after": "2a68e47c77a30771",
+      "date": 1424552179782,
+      "id": "de68fe0efbb84bfb",
+      "item": {
+        "id": "de68fe0efbb84bfb",
+        "type": "factory"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424552186037,
+      "id": "de68fe0efbb84bfb",
+      "item": {
+        "id": "de68fe0efbb84bfb",
+        "text": "YOUTUBE hSyfZkVgasI\n(double-click to edit caption)\n",
+        "type": "video"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424552245354,
+      "id": "2a68e47c77a30771",
+      "type": "remove"
+    },
+    {
+      "date": 1424552265688,
+      "id": "de68fe0efbb84bfb",
+      "item": {
+        "id": "de68fe0efbb84bfb",
+        "text": "\n",
+        "type": "video"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424552311366,
+      "id": "de68fe0efbb84bfb",
+      "type": "remove"
+    },
+    {
+      "date": 1424560444552,
+      "site": "cogdoghappening.sf2.fedwikihappening.net",
+      "type": "fork"
+    },
+    {
+      "date": 1424560477836,
+      "id": "bdb091c33062f366",
+      "item": {
+        "id": "bdb091c33062f366",
+        "type": "factory"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424560493562,
+      "id": "bdb091c33062f366",
+      "item": {
+        "id": "bdb091c33062f366",
+        "text": "What is Hypertext? According to W3, \"Hypertext is text which is not constrained to be linear.\"",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424560507510,
+      "id": "bdb091c33062f366",
+      "item": {
+        "id": "bdb091c33062f366",
+        "text": "What is Hypertext? According to [http://www.w3.org/WhatIs.html W3], \"Hypertext is text which is not constrained to be linear.\"",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424560546042,
+      "id": "bdb091c33062f366",
+      "item": {
+        "id": "bdb091c33062f366",
+        "text": "What is Hypertext? According to [http://www.w3.org/WhatIs.html W3], \"Hypertext is text which is not constrained to be linear.\" According to Wikipedia, \"The English prefix hyper- comes from the Greek prefix \"·ΩëœÄŒµœÅ-\" and means \"over\" or \"beyond\"; it has a common origin with the prefix \"super-\" which comes from Latin. It signifies the overcoming of the previous linear constraints of written text.\"",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424560556498,
+      "id": "bdb091c33062f366",
+      "item": {
+        "id": "bdb091c33062f366",
+        "text": "What is Hypertext? According to [http://www.w3.org/WhatIs.html W3], \"Hypertext is text which is not constrained to be linear.\" According to [http://en.wikipedia.org/wiki/Hypertext Wikipedia], \"The English prefix hyper- comes from the Greek prefix \"·ΩëœÄŒµœÅ-\" and means \"over\" or \"beyond\"; it has a common origin with the prefix \"super-\" which comes from Latin. It signifies the overcoming of the previous linear constraints of written text.\"",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "after": "bdb091c33062f366",
+      "date": 1424560588553,
+      "id": "ba3cf8630589e49c",
+      "item": {
+        "id": "ba3cf8630589e49c",
+        "type": "factory"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424560598748,
+      "id": "ba3cf8630589e49c",
+      "item": {
+        "id": "ba3cf8630589e49c",
+        "text": "\"The Garden of Forking Paths\" - ",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424560612291,
+      "id": "ba3cf8630589e49c",
+      "item": {
+        "id": "ba3cf8630589e49c",
+        "text": "\"The Garden of Forking Paths\" - Jorge Luis Borges (1941)",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424560653661,
+      "id": "ba3cf8630589e49c",
+      "item": {
+        "id": "ba3cf8630589e49c",
+        "text": "\"The Garden of Forking Paths\" [http://wsblog.iash.unibe.ch/wp-content/uploads/Borges_The-Garden-of-Forking-Paths.pdf PDF] - Jorge Luis Borges (1941)",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "after": "ba3cf8630589e49c",
+      "date": 1424561981407,
+      "id": "456f436305628be6",
+      "item": {
+        "id": "456f436305628be6",
+        "type": "factory"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424561986481,
+      "id": "456f436305628be6",
+      "item": {
+        "id": "456f436305628be6",
+        "text": "The work of Paul Otlet",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424562002692,
+      "id": "456f436305628be6",
+      "item": {
+        "id": "456f436305628be6",
+        "text": "The work of [http://en.wikipedia.org/wiki/Paul_Otlet Paul Otlet]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424562006931,
+      "id": "456f436305628be6",
+      "order": [
+        "bdb091c33062f366",
+        "456f436305628be6",
+        "ba3cf8630589e49c"
+      ],
+      "type": "move"
+    },
+    {
+      "date": 1424562047887,
+      "id": "456f436305628be6",
+      "item": {
+        "id": "456f436305628be6",
+        "text": "The work of [http://en.wikipedia.org/wiki/Paul_Otlet Paul Otlet] (including the Mundaneum)",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424562073273,
+      "id": "456f436305628be6",
+      "item": {
+        "id": "456f436305628be6",
+        "text": "The work of [http://en.wikipedia.org/wiki/Paul_Otlet Paul Otlet] [[Mundaneum]])",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424562082108,
+      "id": "456f436305628be6",
+      "item": {
+        "id": "456f436305628be6",
+        "text": "The work of [http://en.wikipedia.org/wiki/Paul_Otlet Paul Otlet], including the [[Mundaneum]])",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "after": "ba3cf8630589e49c",
+      "date": 1424562190769,
+      "id": "2e4370099b1e6a64",
+      "item": {
+        "id": "2e4370099b1e6a64",
+        "type": "factory"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424562228096,
+      "id": "2e4370099b1e6a64",
+      "item": {
+        "id": "2e4370099b1e6a64",
+        "text": "Additional Resources: \"[http://nautil.us/issue/21/information/the-future-of-the-web-is-100-years-old The Future of the Web is 100 Years Old]\" by Alex Wright",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424562245011,
+      "id": "2e4370099b1e6a64",
+      "item": {
+        "id": "2e4370099b1e6a64",
+        "text": "Additional Resources: ",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "after": "2e4370099b1e6a64",
+      "date": 1424562246349,
+      "id": "ae72a71c53c6725a",
+      "item": {
+        "id": "ae72a71c53c6725a",
+        "type": "factory"
+      },
+      "type": "add"
+    },
+    {
+      "date": 1424562253116,
+      "id": "ae72a71c53c6725a",
+      "item": {
+        "id": "ae72a71c53c6725a",
+        "text": "\"[http://nautil.us/issue/21/information/the-future-of-the-web-is-100-years-old The Future of the Web is 100 Years Old]\" by Alex Wright",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424562276326,
+      "id": "2e4370099b1e6a64",
+      "item": {
+        "id": "2e4370099b1e6a64",
+        "text": "<h3>Additional Resources: </h3>",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424562284787,
+      "id": "2e4370099b1e6a64",
+      "item": {
+        "id": "2e4370099b1e6a64",
+        "text": "Additional Resources:",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1424562300917,
+      "id": "456f436305628be6",
+      "item": {
+        "id": "456f436305628be6",
+        "text": "The work of [http://en.wikipedia.org/wiki/Paul_Otlet Paul Otlet], including the [[Mundaneum]]",
+        "type": "paragraph"
+      },
+      "type": "edit"
+    },
+    {
+      "date": 1426861608228,
+      "site": "audrey.sf.fedwikihappening.net",
+      "type": "fork"
+    }
+  ],
+  "story": [
+    {
+      "id": "bdb091c33062f366",
+      "text": "What is Hypertext? According to [http://www.w3.org/WhatIs.html W3], \"Hypertext is text which is not constrained to be linear.\" According to [http://en.wikipedia.org/wiki/Hypertext Wikipedia], \"The English prefix hyper- comes from the Greek prefix \"·ΩëœÄŒµœÅ-\" and means \"over\" or \"beyond\"; it has a common origin with the prefix \"super-\" which comes from Latin. It signifies the overcoming of the previous linear constraints of written text.\"",
+      "type": "paragraph"
+    },
+    {
+      "id": "456f436305628be6",
+      "text": "The work of [http://en.wikipedia.org/wiki/Paul_Otlet Paul Otlet], including the [[Mundaneum]]",
+      "type": "paragraph"
+    },
+    {
+      "id": "ba3cf8630589e49c",
+      "text": "\"The Garden of Forking Paths\" [http://wsblog.iash.unibe.ch/wp-content/uploads/Borges_The-Garden-of-Forking-Paths.pdf PDF] - Jorge Luis Borges (1941)",
+      "type": "paragraph"
+    },
+    {
+      "id": "2e4370099b1e6a64",
+      "text": "Additional Resources:",
+      "type": "paragraph"
+    },
+    {
+      "id": "ae72a71c53c6725a",
+      "text": "\"[http://nautil.us/issue/21/information/the-future-of-the-web-is-100-years-old The Future of the Web is 100 Years Old]\" by Alex Wright",
+      "type": "paragraph"
+    }
+  ],
+  "title": "Precedents to Hypertext"
+}

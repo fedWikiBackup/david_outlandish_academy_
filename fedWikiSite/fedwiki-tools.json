@@ -1,0 +1,236 @@
+{
+  "title": "Fedwiki Tools",
+  "journal": [
+    {
+      "date": 1449105067435,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Fedwiki Tools"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1548164874553
+    },
+    {
+      "type": "edit",
+      "id": "7a8d20f8e59dc1ca",
+      "item": {
+        "text": "This transporter compacts [[reference-item]]s on a page:",
+        "id": "7a8d20f8e59dc1ca",
+        "type": "paragraph"
+      },
+      "date": 1548165065593
+    },
+    {
+      "type": "edit",
+      "id": "b4635d46ac35eb1b",
+      "item": {
+        "text": "<div style=\"background-color:lightgreen;color:black;padding:12px;\">\n\n<form action=\"https://rest.livecode.world/search/cse\">\n\nEnter [[federation search query]] :\n\n<br>\n  <input name=search_Term value='wiki' \n size=60>\n  <input name=cse_Name value='Atopia' type=hidden>\n  <input type=\"submit\">\n</form>\n</div>",
+        "id": "b4635d46ac35eb1b",
+        "type": "html"
+      },
+      "date": 1549211298668
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.org",
+      "date": 1549533880823
+    }
+  ],
+  "story": [
+    {
+      "type": "markdown",
+      "id": "58e5f8fc5f38e0fc",
+      "text": "[[Search]] for what you need from [[the federation]] and further beyond with our [[Little Green Box]]."
+    },
+    {
+      "text": "<div style=\"background-color:lightgreen;color:black;padding:12px;\">\n\n<form action=\"https://rest.livecode.world/search/cse\">\n\nEnter [[federation search query]] :\n\n<br>\n  <input name=search_Term value='wiki' \n size=60>\n  <input name=cse_Name value='Atopia' type=hidden>\n  <input type=\"submit\">\n</form>\n</div>",
+      "id": "b4635d46ac35eb1b",
+      "type": "html"
+    },
+    {
+      "type": "paragraph",
+      "id": "aad1529150f02551",
+      "text": "[[Drop]] any web page on the transporter below to bring content into the [[federation]] with appropriate [[accreditation]].",
+      "alias": "2337e593fa7a7966"
+    },
+    {
+      "type": "transport",
+      "id": "af41a911fdacd814",
+      "text": "POST https://rest.livecode.world/imagine",
+      "alias": "10ea2af363e51a5f"
+    },
+    {
+      "text": "This transporter compacts [[reference-item]]s on a page:",
+      "id": "7a8d20f8e59dc1ca",
+      "type": "paragraph"
+    },
+    {
+      "text": "POST https://rest.livecode.world/fedwiki/compact_Refs",
+      "id": "85551dc78c8586e0",
+      "type": "transport"
+    },
+    {
+      "id": "58b271f91432ad6e",
+      "type": "paragraph",
+      "text": "Import a concise list from OneTab:",
+      "alias": "ccc4200ef10cfe47"
+    },
+    {
+      "text": "POST https://rest.livecode.world/onetab/markdown",
+      "id": "69f079fa70f627c0",
+      "type": "transport"
+    },
+    {
+      "text": "Drop a url from Asana here to create a ghost page for a task:",
+      "id": "a9fe7046fda019cd",
+      "type": "paragraph"
+    },
+    {
+      "text": "POST https://rest.livecode.world/asana",
+      "id": "10ea2af363e51a5f",
+      "type": "transport"
+    },
+    {
+      "type": "html",
+      "id": "335e52504cb68de2",
+      "text": "<h3>Create New Page</h3>\n\n<form action=\"http://new_page/\" style=\"background-color:#eee; padding:15px;\"><center>\nNew:&nbsp;<input name=title size=40 placeholder=\"New Page Title\"><input type=submit value=create></center></form>\n\n<br>\n\n<form action=\"https://rest.livecode.world/mediawiki\"\n  style=\"background-color:#eee; padding:15px;\">\n<center>\n\nCreate:&nbsp;<input name=text size=40 placeholder=\"Wikipedia\">\n<input name=html type=hidden value=\"\">\n<input type=submit value=submit></center></form>\n"
+    },
+    {
+      "type": "markdown",
+      "id": "49a3c73eb29adc45",
+      "text": "# Assets"
+    },
+    {
+      "text": "You may also want to try [[Image Search]] or upload assets with the [[About Assets Plugin]] below:",
+      "id": "3bfde2a027f1c51f",
+      "type": "paragraph"
+    },
+    {
+      "type": "assets",
+      "id": "f44483397c13de7b",
+      "text": "*"
+    },
+    {
+      "text": "# Activity\n\nExplore [[recent activity]] in [[the federation]] over the past few days, by exploring the links below:\n  \n- [[Changes to this Site]]\n- [[Research Group Activity]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]\n- Create content with [[Fedwiki Tools]]\n",
+      "id": "7f6459b61d485407",
+      "type": "markdown"
+    },
+    {
+      "type": "activity",
+      "id": "e9e9f102158e1382",
+      "text": "NEIGHBORHOOD no\nNARRATIVE\nSINCE 5 days"
+    },
+    {
+      "text": "# Emphasis\n\nYou may want to look at the currently open:\n \n* [[Question]]\n* [[Issue]]\n* [[Suggestion]]\n* [[Topic]]\n* [[Task]]\n* [[Note]]",
+      "id": "821827c99b90cfd1",
+      "type": "markdown"
+    },
+    {
+      "id": "0a7fecb875f8d6fb",
+      "type": "markdown",
+      "text": "# Drop in\n\n- [[Voz]] chat - [https://riot.im/app/#/room/#voz:matrix.org riot.im]\n- Video chat and screenshare - [https://appear.in/outlanders appear.in]\n- Fedwiki chat - [https://vector.im/beta/#/room/#fedwiki:matrix.org vector.im]\n",
+      "alias": "ac5a3caf324ddf17"
+    },
+    {
+      "text": "# Echo Transport\n\n",
+      "id": "20188e5d8d7d381e",
+      "type": "markdown"
+    },
+    {
+      "text": "Drop a url on here to see the json sent to the transport:",
+      "id": "ccc4200ef10cfe47",
+      "type": "paragraph"
+    },
+    {
+      "text": "POST https://rest.livecode.world/echo",
+      "id": "503702bde3f3536c",
+      "type": "transport"
+    },
+    {
+      "type": "markdown",
+      "id": "2d37007357693046",
+      "text": "#  Flagmatic Plugin"
+    },
+    {
+      "type": "paragraph",
+      "id": "c918464c4e21f13f",
+      "text": "This plugin offers an assortment of flags that can replace that of the logged-in site."
+    },
+    {
+      "type": "flagmatic",
+      "id": "d1aee01d5ebaae60",
+      "choices": 40
+    },
+    {
+      "type": "paragraph",
+      "id": "b5421dbb87dd2bd0",
+      "text": "See [[About Flagmatic Plugin]]."
+    },
+    {
+      "type": "markdown",
+      "id": "cb0b31ab08e41b2e",
+      "text": "# Fedwiki Utils"
+    },
+    {
+      "type": "paragraph",
+      "id": "6dd5eb1ac7ff8248",
+      "text": "This version of the [[Journal Cleaner Transport]] preserves only [[Fork Actions]] in the [[journal]]. Let's call it the [[Fork Cleaner Transport]]."
+    },
+    {
+      "type": "transport",
+      "id": "19926205f401a549",
+      "text": "POST https://rest.livecode.world/fedwiki/fork_Cleaner"
+    },
+    {
+      "type": "paragraph",
+      "id": "8aa711199f4f1b0e",
+      "text": "We can also fix page title capitalisation using:"
+    },
+    {
+      "type": "transport",
+      "id": "9d3f38b7793c490f",
+      "text": "POST https://rest.livecode.world/fedwiki/fix_Title"
+    },
+    {
+      "type": "paragraph",
+      "id": "510a29077b0339f6",
+      "text": "This [[transport]] strips all [[journal]] entires."
+    },
+    {
+      "type": "transport",
+      "id": "0e93503bbcc38ef5",
+      "text": "POST https://rest.livecode.world/fedwiki/journal"
+    },
+    {
+      "type": "markdown",
+      "id": "c09241ef2b2f2dff",
+      "text": "# Plugins and transporters\n"
+    },
+    {
+      "type": "markdown",
+      "id": "63a532e91f786723",
+      "text": "Here we list some of the [[new plugins]] that you may wish to install or keep up to date on your server."
+    },
+    {
+      "id": "9d66e0a907778913",
+      "type": "reference",
+      "site": "transport.fedwiki.org",
+      "slug": "index-of-transporters",
+      "title": "Index of Transporters",
+      "text": "transport.fedwiki.org"
+    },
+    {
+      "type": "markdown",
+      "id": "1b0818036e9e26c5",
+      "text": "# See also\n"
+    },
+    {
+      "text": "- [[Little Green Box]]\n- [[New Plugins]]",
+      "id": "7727c5966b27f6a9",
+      "type": "markdown"
+    }
+  ]
+}

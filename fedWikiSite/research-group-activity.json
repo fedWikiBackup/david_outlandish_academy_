@@ -1,0 +1,586 @@
+{
+  "journal": [
+    {
+      "date": 1502196648351,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Research Group Activity"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1548513138293
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "601aafe1bef48e4d"
+      },
+      "id": "601aafe1bef48e4d",
+      "type": "add",
+      "after": "5197ceb2ccc9874a",
+      "date": 1548513218515
+    },
+    {
+      "type": "edit",
+      "id": "601aafe1bef48e4d",
+      "item": {
+        "type": "markdown",
+        "id": "601aafe1bef48e4d",
+        "text": "# Federation Activity"
+      },
+      "date": 1548513229893
+    },
+    {
+      "type": "move",
+      "order": [
+        "9c3e3c907c7d1c84",
+        "601aafe1bef48e4d",
+        "183da8405f512494",
+        "35715e4c03774204",
+        "8a279f359366cdda",
+        "40cd7ecd1031c0d6",
+        "65a81c85b2747522",
+        "41a30413bcfe085e",
+        "70502142602e704d",
+        "4fbdcb0a97b7b6fb",
+        "33feb56877cc259f",
+        "741a0fcdd3ff76b2",
+        "1bea8572d71395ba",
+        "fe099fd798f6f20a",
+        "c639166ebd2092e9",
+        "639ba566-d6f4-455d-b294-920bb0f3b1c1",
+        "9ebe334eecceb50a",
+        "b9009cd1a30cd928",
+        "f38dfa955cc6694d",
+        "3f0a810f929d7200",
+        "a140a85431f643fe",
+        "3b3d630d19daa82e",
+        "a4a30b7dd7aa66b8",
+        "5197ceb2ccc9874a"
+      ],
+      "id": "601aafe1bef48e4d",
+      "date": 1548513235678
+    },
+    {
+      "type": "edit",
+      "id": "601aafe1bef48e4d",
+      "item": {
+        "type": "markdown",
+        "id": "601aafe1bef48e4d",
+        "text": "# Federation Activity\n"
+      },
+      "date": 1548513243038
+    },
+    {
+      "type": "add",
+      "id": "2b0394781d440415",
+      "item": {
+        "type": "markdown",
+        "id": "2b0394781d440415",
+        "text": "# Project Activity"
+      },
+      "after": "601aafe1bef48e4d",
+      "date": 1548513250800
+    },
+    {
+      "type": "move",
+      "order": [
+        "9c3e3c907c7d1c84",
+        "601aafe1bef48e4d",
+        "183da8405f512494",
+        "2b0394781d440415",
+        "35715e4c03774204",
+        "8a279f359366cdda",
+        "40cd7ecd1031c0d6",
+        "65a81c85b2747522",
+        "41a30413bcfe085e",
+        "70502142602e704d",
+        "4fbdcb0a97b7b6fb",
+        "33feb56877cc259f",
+        "741a0fcdd3ff76b2",
+        "1bea8572d71395ba",
+        "fe099fd798f6f20a",
+        "c639166ebd2092e9",
+        "639ba566-d6f4-455d-b294-920bb0f3b1c1",
+        "9ebe334eecceb50a",
+        "b9009cd1a30cd928",
+        "f38dfa955cc6694d",
+        "3f0a810f929d7200",
+        "a140a85431f643fe",
+        "3b3d630d19daa82e",
+        "a4a30b7dd7aa66b8",
+        "5197ceb2ccc9874a"
+      ],
+      "id": "2b0394781d440415",
+      "date": 1548513253011
+    },
+    {
+      "type": "edit",
+      "id": "2b0394781d440415",
+      "item": {
+        "type": "markdown",
+        "id": "2b0394781d440415",
+        "text": "# Project Activity\n"
+      },
+      "date": 1548513255914
+    },
+    {
+      "type": "add",
+      "id": "d788941ae3f2172b",
+      "item": {
+        "type": "markdown",
+        "id": "d788941ae3f2172b",
+        "text": "# Tech Activity"
+      },
+      "after": "2b0394781d440415",
+      "date": 1548513276003
+    },
+    {
+      "type": "move",
+      "order": [
+        "9c3e3c907c7d1c84",
+        "601aafe1bef48e4d",
+        "183da8405f512494",
+        "2b0394781d440415",
+        "35715e4c03774204",
+        "d788941ae3f2172b",
+        "8a279f359366cdda",
+        "40cd7ecd1031c0d6",
+        "65a81c85b2747522",
+        "41a30413bcfe085e",
+        "70502142602e704d",
+        "4fbdcb0a97b7b6fb",
+        "33feb56877cc259f",
+        "741a0fcdd3ff76b2",
+        "1bea8572d71395ba",
+        "fe099fd798f6f20a",
+        "c639166ebd2092e9",
+        "639ba566-d6f4-455d-b294-920bb0f3b1c1",
+        "9ebe334eecceb50a",
+        "b9009cd1a30cd928",
+        "f38dfa955cc6694d",
+        "3f0a810f929d7200",
+        "a140a85431f643fe",
+        "3b3d630d19daa82e",
+        "a4a30b7dd7aa66b8",
+        "5197ceb2ccc9874a"
+      ],
+      "id": "d788941ae3f2172b",
+      "date": 1548513278087
+    },
+    {
+      "type": "edit",
+      "id": "d788941ae3f2172b",
+      "item": {
+        "type": "markdown",
+        "id": "d788941ae3f2172b",
+        "text": "# Tech Activity\n"
+      },
+      "date": 1548513282925
+    },
+    {
+      "type": "add",
+      "id": "581d133e605783a3",
+      "item": {
+        "type": "markdown",
+        "id": "581d133e605783a3",
+        "text": "# More Activity"
+      },
+      "after": "d788941ae3f2172b",
+      "date": 1548513287539
+    },
+    {
+      "type": "move",
+      "order": [
+        "9c3e3c907c7d1c84",
+        "601aafe1bef48e4d",
+        "183da8405f512494",
+        "2b0394781d440415",
+        "35715e4c03774204",
+        "d788941ae3f2172b",
+        "8a279f359366cdda",
+        "581d133e605783a3",
+        "40cd7ecd1031c0d6",
+        "65a81c85b2747522",
+        "41a30413bcfe085e",
+        "70502142602e704d",
+        "4fbdcb0a97b7b6fb",
+        "33feb56877cc259f",
+        "741a0fcdd3ff76b2",
+        "1bea8572d71395ba",
+        "fe099fd798f6f20a",
+        "c639166ebd2092e9",
+        "639ba566-d6f4-455d-b294-920bb0f3b1c1",
+        "9ebe334eecceb50a",
+        "b9009cd1a30cd928",
+        "f38dfa955cc6694d",
+        "3f0a810f929d7200",
+        "a140a85431f643fe",
+        "3b3d630d19daa82e",
+        "a4a30b7dd7aa66b8",
+        "5197ceb2ccc9874a"
+      ],
+      "id": "581d133e605783a3",
+      "date": 1548513289924
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.org",
+      "date": 1548800090576
+    },
+    {
+      "type": "remove",
+      "id": "a4a30b7dd7aa66b8",
+      "date": 1548800141212
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "Video Sites\n\nREFERENCES video.livecode.world/sites-about-video",
+        "id": "fad843d6dae8ff18",
+        "type": "roster",
+        "alias": "1bea8572d71395ba"
+      },
+      "after": "3b3d630d19daa82e",
+      "id": "fad843d6dae8ff18",
+      "date": 1548800155065
+    },
+    {
+      "type": "edit",
+      "id": "35715e4c03774204",
+      "item": {
+        "text": "- [[Thought Garden Activity]]\n- [[Platform Earth Activity]]\n- [[Outlandish Activity]]\n- [[Crypto Activity]]\n- [[Video Activity]]",
+        "id": "35715e4c03774204",
+        "type": "markdown"
+      },
+      "date": 1548800195586
+    },
+    {
+      "type": "fork",
+      "site": "film.thought.garden",
+      "date": 1549133379585
+    },
+    {
+      "type": "add",
+      "id": "f0d124ed790eaa46",
+      "item": {
+        "type": "markdown",
+        "id": "f0d124ed790eaa46",
+        "text": "# People"
+      },
+      "after": "d788941ae3f2172b",
+      "date": 1549133445812
+    },
+    {
+      "type": "move",
+      "order": [
+        "9c3e3c907c7d1c84",
+        "601aafe1bef48e4d",
+        "183da8405f512494",
+        "2b0394781d440415",
+        "35715e4c03774204",
+        "d788941ae3f2172b",
+        "8a279f359366cdda",
+        "f0d124ed790eaa46",
+        "581d133e605783a3",
+        "40cd7ecd1031c0d6",
+        "65a81c85b2747522",
+        "41a30413bcfe085e",
+        "70502142602e704d",
+        "4fbdcb0a97b7b6fb",
+        "33feb56877cc259f",
+        "741a0fcdd3ff76b2",
+        "1bea8572d71395ba",
+        "fe099fd798f6f20a",
+        "c639166ebd2092e9",
+        "639ba566-d6f4-455d-b294-920bb0f3b1c1",
+        "9ebe334eecceb50a",
+        "b9009cd1a30cd928",
+        "f38dfa955cc6694d",
+        "3f0a810f929d7200",
+        "a140a85431f643fe",
+        "3b3d630d19daa82e",
+        "fad843d6dae8ff18",
+        "5197ceb2ccc9874a"
+      ],
+      "id": "f0d124ed790eaa46",
+      "date": 1549133448617
+    },
+    {
+      "type": "edit",
+      "id": "f0d124ed790eaa46",
+      "item": {
+        "type": "markdown",
+        "id": "f0d124ed790eaa46",
+        "text": "# People\n"
+      },
+      "date": 1549133463076
+    },
+    {
+      "type": "add",
+      "id": "3265870bc4277cd2",
+      "item": {
+        "type": "markdown",
+        "id": "3265870bc4277cd2",
+        "text": "- [[Ward's Writing]]\n- [[David's Writing]]"
+      },
+      "after": "f0d124ed790eaa46",
+      "date": 1549133469615
+    },
+    {
+      "type": "add",
+      "item": {
+        "text": "David's writing sites\n\nREFERENCES david.bovill.me/davids-writing-sites",
+        "id": "837135217f9a7d8d",
+        "type": "roster"
+      },
+      "after": "5197ceb2ccc9874a",
+      "id": "837135217f9a7d8d",
+      "date": 1549133531264
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "1eeb1b79fdba38d9",
+        "text": "ROSTER found.ward.bay.wiki.org/welcome-visitors"
+      },
+      "after": "fad843d6dae8ff18",
+      "id": "1eeb1b79fdba38d9",
+      "date": 1549133540268
+    },
+    {
+      "type": "move",
+      "order": [
+        "9c3e3c907c7d1c84",
+        "601aafe1bef48e4d",
+        "183da8405f512494",
+        "2b0394781d440415",
+        "35715e4c03774204",
+        "d788941ae3f2172b",
+        "8a279f359366cdda",
+        "f0d124ed790eaa46",
+        "3265870bc4277cd2",
+        "581d133e605783a3",
+        "40cd7ecd1031c0d6",
+        "65a81c85b2747522",
+        "41a30413bcfe085e",
+        "70502142602e704d",
+        "4fbdcb0a97b7b6fb",
+        "33feb56877cc259f",
+        "741a0fcdd3ff76b2",
+        "1bea8572d71395ba",
+        "fe099fd798f6f20a",
+        "c639166ebd2092e9",
+        "639ba566-d6f4-455d-b294-920bb0f3b1c1",
+        "9ebe334eecceb50a",
+        "b9009cd1a30cd928",
+        "f38dfa955cc6694d",
+        "3f0a810f929d7200",
+        "a140a85431f643fe",
+        "3b3d630d19daa82e",
+        "fad843d6dae8ff18",
+        "837135217f9a7d8d",
+        "1eeb1b79fdba38d9",
+        "5197ceb2ccc9874a"
+      ],
+      "id": "837135217f9a7d8d",
+      "date": 1549133543417
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "roster",
+        "id": "97fda318f3d7c058",
+        "text": "Ward on Wiki\n\nREFERENCES ward.asia.wiki.org/ward-on-wiki"
+      },
+      "after": "5197ceb2ccc9874a",
+      "id": "97fda318f3d7c058",
+      "date": 1549133547537
+    },
+    {
+      "type": "fork",
+      "site": "thought.garden",
+      "date": 1549133721148
+    },
+    {
+      "type": "fork",
+      "site": "fedwiki.org",
+      "date": 1549534142242
+    }
+  ],
+  "title": "Research Group Activity",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "9c3e3c907c7d1c84",
+      "text": "On this page you can find [[research groups]] that are working on topics related to the current [[domain]]:"
+    },
+    {
+      "type": "markdown",
+      "id": "601aafe1bef48e4d",
+      "text": "# Federation Activity\n"
+    },
+    {
+      "text": "- [[Federation Activity]]\n- [[Recent Activity]]\n- [[Weekly Roster]]\n",
+      "id": "183da8405f512494",
+      "type": "markdown"
+    },
+    {
+      "type": "markdown",
+      "id": "2b0394781d440415",
+      "text": "# Project Activity\n"
+    },
+    {
+      "text": "- [[Thought Garden Activity]]\n- [[Platform Earth Activity]]\n- [[Outlandish Activity]]\n- [[Crypto Activity]]\n- [[Video Activity]]",
+      "id": "35715e4c03774204",
+      "type": "markdown"
+    },
+    {
+      "type": "markdown",
+      "id": "d788941ae3f2172b",
+      "text": "# Tech Activity\n"
+    },
+    {
+      "text": "- [[Fedwiki Activity]]\n- [[Livecode Activity]]\n- [[C0de Activity]]\n",
+      "id": "8a279f359366cdda",
+      "type": "markdown"
+    },
+    {
+      "type": "markdown",
+      "id": "f0d124ed790eaa46",
+      "text": "# People\n"
+    },
+    {
+      "type": "markdown",
+      "id": "3265870bc4277cd2",
+      "text": "- [[Ward's Writing]]\n- [[David's Writing]]"
+    },
+    {
+      "type": "markdown",
+      "id": "581d133e605783a3",
+      "text": "# More Activity"
+    },
+    {
+      "text": "- [[Changes to Coding Sites]]\n- [[Changes to Technology Sites]]\n- [[Thought Garden Project Activity]]\n- [[Permanent Web Activity]]\n- [[FEAST Activity]]\n- [[Game Activity]]\n",
+      "id": "40cd7ecd1031c0d6",
+      "type": "markdown"
+    },
+    {
+      "text": "# Active Rosters\n",
+      "id": "65a81c85b2747522",
+      "type": "markdown"
+    },
+    {
+      "id": "41a30413bcfe085e",
+      "type": "roster",
+      "text": "Thought Garden Sites\n\nROSTER rest.livecode.world/thought",
+      "alias": "837135217f9a7d8d"
+    },
+    {
+      "id": "70502142602e704d",
+      "type": "roster",
+      "text": "Platform Earth Sites\n\nROSTER rest.livecode.world/earth",
+      "alias": "837135217f9a7d8d"
+    },
+    {
+      "text": "Outlandish Sites\n\nROSTER rest.livecode.world/outlandish",
+      "id": "4fbdcb0a97b7b6fb",
+      "type": "roster"
+    },
+    {
+      "text": "Crypto Sites\n\nROSTER rest.livecode.world/crypto",
+      "id": "33feb56877cc259f",
+      "type": "roster"
+    },
+    {
+      "text": "Fedwiki Sites\n\nROSTER rest.livecode.world/fedwiki",
+      "id": "741a0fcdd3ff76b2",
+      "type": "roster"
+    },
+    {
+      "text": "Livecode Sites\n\nROSTER rest.livecode.world/livecode",
+      "id": "1bea8572d71395ba",
+      "type": "roster"
+    },
+    {
+      "id": "fe099fd798f6f20a",
+      "type": "roster",
+      "text": "C0de Sites\n\nROSTER rest.livecode.world/c0de",
+      "alias": "1bea8572d71395ba"
+    },
+    {
+      "text": "Atopia Sites\n\nROSTER rest.livecode.world/roster",
+      "id": "c639166ebd2092e9",
+      "type": "roster"
+    },
+    {
+      "text": "<form action='https://rest.livecode.world/roster/atopia_merge'>\n\nHere you can update the Atopia Sites roster:\n\n&nbsp;&nbsp;\n<input name='domainFilter' \n\nvalue=''  \n\ntype='hidden'>\n<input name='itemID' value='c639166ebd2092e9' type='hidden'>\n<input name='pageSlug' value='research-group-activity' type='hidden'>\n<input name='wikiDomain' value='fedwiki.org' type='hidden'>\n\n<button type='submit'>Update</button>\n</form>",
+      "id": "639ba566-d6f4-455d-b294-920bb0f3b1c1",
+      "type": "html"
+    },
+    {
+      "text": "# Rosters\n",
+      "id": "9ebe334eecceb50a",
+      "type": "markdown"
+    },
+    {
+      "text": "We need to refactor these rosters using tooling so that they can be more easily maintained.",
+      "id": "b9009cd1a30cd928",
+      "type": "markdown"
+    },
+    {
+      "id": "f38dfa955cc6694d",
+      "type": "roster",
+      "text": "Technology Sites\n\nREFERENCES c0de.academy/technology-sites\nREFERENCES c0de.academy/coding-sites\nREFERENCES livecode.world/welcome-visitors\nREFERENCES fedwiki.org/fedwiki-sites\nREFERENCES fedwiki.org/foraging-sites",
+      "alias": "1bea8572d71395ba"
+    },
+    {
+      "id": "3f0a810f929d7200",
+      "type": "roster",
+      "text": "Coding Sites\n\nREFERENCES livecode.world/welcome-visitors\nREFERENCES c0de.academy/coding-sites\nREFERENCES c0de.academy/technology-sites\n",
+      "alias": "1bea8572d71395ba"
+    },
+    {
+      "id": "a140a85431f643fe",
+      "type": "roster",
+      "text": "Permanent Web Sites\n\nREFERENCES permanent.wiki/permanent-web-sites",
+      "alias": "837135217f9a7d8d"
+    },
+    {
+      "id": "3b3d630d19daa82e",
+      "type": "roster",
+      "text": "Audio Sites\n\nREFERENCES sound.thought.garden/audio-sites",
+      "alias": "0b851b47592ab49d"
+    },
+    {
+      "text": "Video Sites\n\nREFERENCES video.livecode.world/sites-about-video",
+      "id": "fad843d6dae8ff18",
+      "type": "roster",
+      "alias": "1bea8572d71395ba"
+    },
+    {
+      "text": "David's writing sites\n\nREFERENCES david.bovill.me/davids-writing-sites",
+      "id": "837135217f9a7d8d",
+      "type": "roster"
+    },
+    {
+      "type": "roster",
+      "id": "1eeb1b79fdba38d9",
+      "text": "ROSTER found.ward.bay.wiki.org/welcome-visitors"
+    },
+    {
+      "id": "5197ceb2ccc9874a",
+      "type": "roster",
+      "text": "Game Sites\n\nREFERENCES thought.garden/game-sites",
+      "alias": "837135217f9a7d8d"
+    },
+    {
+      "type": "roster",
+      "id": "97fda318f3d7c058",
+      "text": "Ward on Wiki\n\nREFERENCES ward.asia.wiki.org/ward-on-wiki"
+    }
+  ]
+}
