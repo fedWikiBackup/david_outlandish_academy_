@@ -1,0 +1,1121 @@
+{
+  "title": "Agile Manifesto",
+  "story": [
+    {
+      "type": "html",
+      "text": "<b><i>The Manifesto for Agile Software Development (2001)</b></i>",
+      "id": "89d909d1e2680924da26c4e8471ee8ec"
+    },
+    {
+      "type": "html",
+      "text": "<blockquote>\nTo improve is to change, to be perfect is to change often. - Winston Churchill\n<blockquote>",
+      "id": "36c1e46e8b0efd0c141f32709d4701fc"
+    },
+    {
+      "type": "html",
+      "text": "\nWe are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:",
+      "id": "cc8ec5f9dbc68e79053128c15b18da6d"
+    },
+    {
+      "type": "markdown",
+      "text": "- __Individuals and interactions__ over processes and tools\n- __Working software__ over comprehensive documentation\n- __Customer collaboration__ over contract negotiation\n- __Responding to change__ over following a plan",
+      "id": "00b5d9f3b5a8b8e449575ed34e484873"
+    },
+    {
+      "type": "html",
+      "text": "That is, while there is value in the items on the right, we value the items in bold more - [http://www.agilemanifesto.org agilemanifesto.org]",
+      "id": "f939331eeb3067f5c004dcddd0ff8833"
+    },
+    {
+      "type": "html",
+      "text": "\n[[Kent Beck]], [[Mike Beedle]], [[Arie Van Bennekum]], [[Alistair Cockburn]], [[Ward Cunningham]], [[Martin Fowler]], \n[[James Grenning]], [[Jim Highsmith]], [[Andrew Hunt]], [[Ron Jeffries]], [[Jon Kern]], [[Brian Marick]], \n[[Robert Cecil Martin]], [[Steve Mellor]], [[Ken Schwaber]], [[Jeff Sutherland]], [[David Thomas]]",
+      "id": "1d450704d3a73a6de81e3f416bceb41a"
+    },
+    {
+      "type": "markdown",
+      "text": "# Principles behind the Agile Manifesto",
+      "id": "f48d133dde51a5dc597b70a585373cad"
+    },
+    {
+      "type": "markdown",
+      "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+    },
+    {
+      "type": "markdown",
+      "text": "# Contrast with\n\n- [[Fragile Manifesto]]\n- [[The Real Definition Of Agile]]\n- [[Hacker Methodology]]",
+      "id": "4a94aada5b40e04b0d4ea188f273dc52"
+    },
+    {
+      "type": "markdown",
+      "text": "# See also\n",
+      "id": "c7417d1b502a85ba92babb7160c28ae5"
+    },
+    {
+      "type": "markdown",
+      "id": "9b466e483d53d7a6",
+      "text": "- Original on [http://c2.com/cgi/wiki?AgileManifesto c2.com]\n- [http://www.sdmagazine.com/documents/s=844/sdm0108a/0108a.htm www.sdmagazine.com]\n- [[Agile Tng]]\n- [[Defrauding the Manifesto]]\n- [[12th Principle]]\n- [[Agile Manifesto Translations]]"
+    },
+    {
+      "type": "reference",
+      "id": "97ff33811f34bac5",
+      "site": "www.xpdx.org",
+      "slug": "agile-manifesto",
+      "title": "Agile Manifesto",
+      "text": "The agile manifesto website was created as a poster advertising four observations that resonated with the attendees of a \"lightweight\" methods workshop."
+    }
+  ],
+  "journal": [
+    {
+      "date": 1392605740000,
+      "id": "aee1eab874bb2c72b5f9cb7785e2f425",
+      "type": "create",
+      "item": {
+        "title": "Agile Manifesto",
+        "story": [
+          {
+            "type": "html",
+            "text": "<b><i>The Manifesto for Agile Software Development</b></i>",
+            "id": "89d909d1e2680924da26c4e8471ee8ec"
+          },
+          {
+            "type": "html",
+            "text": "\nWe are uncovering better ways of developing software by doing it and helping others do it. Through this work we have come to value:",
+            "id": "cc8ec5f9dbc68e79053128c15b18da6d"
+          },
+          {
+            "type": "html",
+            "text": " Individuals and interactions over processes and tools",
+            "id": "00b5d9f3b5a8b8e449575ed34e484873"
+          },
+          {
+            "type": "html",
+            "text": " Working software over comprehensive documentation",
+            "id": "791d248385ac99199e50cae7575dfe27"
+          },
+          {
+            "type": "html",
+            "text": " Customer collaboration over contract negotiation",
+            "id": "6714c0c06ec5abea20f1e4d8f3204102"
+          },
+          {
+            "type": "html",
+            "text": " Responding to change over following a plan",
+            "id": "36eed6b4649e21d4f863b45a2f3c307d"
+          },
+          {
+            "type": "html",
+            "text": "\nThat is, while there is value in the items on the right, we value the items on the left more.",
+            "id": "f939331eeb3067f5c004dcddd0ff8833"
+          },
+          {
+            "type": "html",
+            "text": "\n[[Kent Beck]], [[Mike Beedle]], [[Arie Van Bennekum]], [[Alistair Cockburn]], [[Ward Cunningham]], [[Martin Fowler]], \n[[James Grenning]], [[Jim Highsmith]], [[Andrew Hunt]], [[Ron Jeffries]], [[Jon Kern]], [[Brian Marick]], \n[[Robert Cecil Martin]], [[Steve Mellor]], [[Ken Schwaber]], [[Jeff Sutherland]], [[David Thomas]]",
+            "id": "1d450704d3a73a6de81e3f416bceb41a"
+          },
+          {
+            "type": "html",
+            "text": "\n2001",
+            "id": "297dab1b39a254726695ef932a1ee22d"
+          },
+          {
+            "type": "html",
+            "text": "<b><i>Principles behind the Agile Manifesto</b></i>",
+            "id": "f48d133dde51a5dc597b70a585373cad"
+          },
+          {
+            "type": "html",
+            "text": "\nWe follow these principles:",
+            "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+          },
+          {
+            "type": "html",
+            "text": " Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.",
+            "id": "4d7d46655cc34a4f01fdf4765e3b59d8"
+          },
+          {
+            "type": "html",
+            "text": " Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.",
+            "id": "0cd0aae948208fddd3e4e4fe9b043c91"
+          },
+          {
+            "type": "html",
+            "text": " Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.",
+            "id": "d62b16321c488cddc269f72ef74b334f"
+          },
+          {
+            "type": "html",
+            "text": " Business people and developers must work together daily throughout the project.",
+            "id": "0b66ae6f8a3ee17a1bc87f19883d1209"
+          },
+          {
+            "type": "html",
+            "text": " Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.",
+            "id": "372cf9334542b6a7e1765d970032851e"
+          },
+          {
+            "type": "html",
+            "text": " The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.",
+            "id": "ac19834f046cc84507c329376ee44471"
+          },
+          {
+            "type": "html",
+            "text": " Working software is the primary measure of progress.",
+            "id": "afda17f1bf28ed2f64998f637b9d51c3"
+          },
+          {
+            "type": "html",
+            "text": " Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.",
+            "id": "b80ead49df55b47fbc2881d56215f93f"
+          },
+          {
+            "type": "html",
+            "text": " Continuous attention to technical excellence and good design enhances agility.",
+            "id": "0da0d830f2bb5289504215d4ce9fa77c"
+          },
+          {
+            "type": "html",
+            "text": " Simplicity -- the art of maximizing the amount of work not done -- is essential.",
+            "id": "93f6bf8d5709f11b59c2c31b5890ed17"
+          },
+          {
+            "type": "html",
+            "text": " The best architectures, requirements, and designs emerge from self-organizing teams.",
+            "id": "d8341cffe88545f9ca026e6212318eba"
+          },
+          {
+            "type": "html",
+            "text": " At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+            "id": "b8e96996d727271fd2a9060ebf3c1f44"
+          },
+          {
+            "type": "html",
+            "text": "More:<br>[http://www.sdmagazine.com/documents/s=844/sdm0108a/0108a.htm www.sdmagazine.com]",
+            "id": "e2a7d916be0ce110f83623fb5e451280"
+          },
+          {
+            "type": "html",
+            "text": "Also:<br>[http://www.agilemanifesto.org www.agilemanifesto.org]",
+            "id": "af28eca4cc6a2a0665e9a9aee35e1154"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d00fe9138fd4ea4b98d16fa105248a1e"
+          },
+          {
+            "type": "html",
+            "text": "\"To improve is to change, to be perfect is to change often. --Winston Churchill\"",
+            "id": "36c1e46e8b0efd0c141f32709d4701fc"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d00fe9138fd4ea4b98d16fa105248a1e"
+          },
+          {
+            "type": "html",
+            "text": "\nContrast with: ",
+            "id": "4a94aada5b40e04b0d4ea188f273dc52"
+          },
+          {
+            "type": "html",
+            "text": " the [[Fragile Manifesto]]",
+            "id": "3d2399bf9430306c9cfd0590e94ef35b"
+          },
+          {
+            "type": "html",
+            "text": " [[The Real Definition Of Agile]]",
+            "id": "cc1d3a60f9e5bde253b8b67d8b84919c"
+          },
+          {
+            "type": "html",
+            "text": " [[Hacker Methodology]].",
+            "id": "bf8b800900845439a96534425e830468"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d00fe9138fd4ea4b98d16fa105248a1e"
+          },
+          {
+            "type": "html",
+            "text": "[[What Happened]] since \"turn of the century rush\" on Agile and Extreme methodologies? Do these scale for [[Enterprise Application]] (multiple functional area ones and can possibly involved [[Business Process Reengineering]] components) or not? -- dl",
+            "id": "2b97442bedbadb2a46259363d6743837"
+          },
+          {
+            "type": "html",
+            "text": "\nTry [[Agile Tng]].",
+            "id": "70f4bdee0e7ec874eec510775751da7a"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d00fe9138fd4ea4b98d16fa105248a1e"
+          },
+          {
+            "type": "html",
+            "text": "Hmmm... I don't know why this was different than the original, but I changed it back. -- [[Sly Gryphon]] ",
+            "id": "097652575c4e753c9fd9a2c46f40b707"
+          },
+          {
+            "type": "html",
+            "text": "<hr>",
+            "id": "d00fe9138fd4ea4b98d16fa105248a1e"
+          },
+          {
+            "type": "html",
+            "text": "[[Category Agile Methodology]]",
+            "id": "d8ee828990f3a6e829df16d0b786b862"
+          },
+          {
+            "type": "html",
+            "text": "See original on  [http://c2.com/cgi/wiki?AgileManifesto c2.com]",
+            "id": "c7417d1b502a85ba92babb7160c28ae5"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fork",
+      "site": "agile.sfw.c2.com",
+      "date": 1543312632189
+    },
+    {
+      "type": "edit",
+      "id": "00b5d9f3b5a8b8e449575ed34e484873",
+      "item": {
+        "type": "markdown",
+        "text": "- __Individuals and interactions__ over processes and tools\n- __Working software__ over comprehensive documentation\n- __Customer collaboration__ over contract negotiation\n- __Responding to change__ over following a plan",
+        "id": "00b5d9f3b5a8b8e449575ed34e484873"
+      },
+      "date": 1543312672899
+    },
+    {
+      "type": "remove",
+      "id": "791d248385ac99199e50cae7575dfe27",
+      "date": 1543312682942
+    },
+    {
+      "type": "edit",
+      "id": "00b5d9f3b5a8b8e449575ed34e484873",
+      "item": {
+        "type": "markdown",
+        "text": "- __Individuals and interactions__ over processes and tools\n- __Working software__ over comprehensive documentation\n- __Customer collaboration__ over contract negotiation\n- __Responding to change__ over following a plan",
+        "id": "00b5d9f3b5a8b8e449575ed34e484873"
+      },
+      "date": 1543312694522
+    },
+    {
+      "type": "remove",
+      "id": "6714c0c06ec5abea20f1e4d8f3204102",
+      "date": 1543312700265
+    },
+    {
+      "type": "edit",
+      "id": "00b5d9f3b5a8b8e449575ed34e484873",
+      "item": {
+        "type": "markdown",
+        "text": "- __Individuals and interactions__ over processes and tools\n- __Working software__ over comprehensive documentation\n- __Customer collaboration__ over contract negotiation\n- __Responding to change__ over following a plan",
+        "id": "00b5d9f3b5a8b8e449575ed34e484873"
+      },
+      "date": 1543312707443
+    },
+    {
+      "type": "remove",
+      "id": "36eed6b4649e21d4f863b45a2f3c307d",
+      "date": 1543312716106
+    },
+    {
+      "type": "edit",
+      "id": "00b5d9f3b5a8b8e449575ed34e484873",
+      "item": {
+        "type": "markdown",
+        "text": "- __Individuals and interactions__ over processes and tools\n- __Working software__ over comprehensive documentation\n- __Customer collaboration__ over contract negotiation\n- __Responding to change__ over following a plan",
+        "id": "00b5d9f3b5a8b8e449575ed34e484873"
+      },
+      "date": 1543312719980
+    },
+    {
+      "type": "remove",
+      "id": "af28eca4cc6a2a0665e9a9aee35e1154",
+      "date": 1543312824691
+    },
+    {
+      "type": "edit",
+      "id": "00b5d9f3b5a8b8e449575ed34e484873",
+      "item": {
+        "type": "markdown",
+        "text": "- __Individuals and interactions__ over processes and tools\n- __Working software__ over comprehensive documentation\n- __Customer collaboration__ over contract negotiation\n- __Responding to change__ over following a plan",
+        "id": "00b5d9f3b5a8b8e449575ed34e484873"
+      },
+      "date": 1543312870003
+    },
+    {
+      "type": "edit",
+      "id": "f939331eeb3067f5c004dcddd0ff8833",
+      "item": {
+        "type": "html",
+        "text": "That is, while there is value in the items on the right, we value the items in bold more - [http://www.agilemanifesto.org agilemanifesto.org]",
+        "id": "f939331eeb3067f5c004dcddd0ff8833"
+      },
+      "date": 1543312882823
+    },
+    {
+      "type": "edit",
+      "id": "f939331eeb3067f5c004dcddd0ff8833",
+      "item": {
+        "type": "html",
+        "text": "That is, while there is value in the items on the right, we value the items in bold more - [http://www.agilemanifesto.org agilemanifesto.org]",
+        "id": "f939331eeb3067f5c004dcddd0ff8833"
+      },
+      "date": 1543312926903
+    },
+    {
+      "type": "edit",
+      "id": "4d7d46655cc34a4f01fdf4765e3b59d8",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "4d7d46655cc34a4f01fdf4765e3b59d8"
+      },
+      "date": 1543312949458
+    },
+    {
+      "type": "edit",
+      "id": "0cd0aae948208fddd3e4e4fe9b043c91",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "0cd0aae948208fddd3e4e4fe9b043c91"
+      },
+      "date": 1543312952097
+    },
+    {
+      "type": "edit",
+      "id": "d62b16321c488cddc269f72ef74b334f",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "d62b16321c488cddc269f72ef74b334f"
+      },
+      "date": 1543312954245
+    },
+    {
+      "type": "edit",
+      "id": "0b66ae6f8a3ee17a1bc87f19883d1209",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "0b66ae6f8a3ee17a1bc87f19883d1209"
+      },
+      "date": 1543312956582
+    },
+    {
+      "type": "edit",
+      "id": "372cf9334542b6a7e1765d970032851e",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "372cf9334542b6a7e1765d970032851e"
+      },
+      "date": 1543312958779
+    },
+    {
+      "type": "edit",
+      "id": "ac19834f046cc84507c329376ee44471",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "ac19834f046cc84507c329376ee44471"
+      },
+      "date": 1543312961498
+    },
+    {
+      "type": "edit",
+      "id": "afda17f1bf28ed2f64998f637b9d51c3",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "afda17f1bf28ed2f64998f637b9d51c3"
+      },
+      "date": 1543312964534
+    },
+    {
+      "type": "edit",
+      "id": "b80ead49df55b47fbc2881d56215f93f",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "b80ead49df55b47fbc2881d56215f93f"
+      },
+      "date": 1543312967240
+    },
+    {
+      "type": "edit",
+      "id": "0da0d830f2bb5289504215d4ce9fa77c",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "0da0d830f2bb5289504215d4ce9fa77c"
+      },
+      "date": 1543312969511
+    },
+    {
+      "type": "edit",
+      "id": "93f6bf8d5709f11b59c2c31b5890ed17",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "93f6bf8d5709f11b59c2c31b5890ed17"
+      },
+      "date": 1543312972632
+    },
+    {
+      "type": "edit",
+      "id": "d8341cffe88545f9ca026e6212318eba",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "d8341cffe88545f9ca026e6212318eba"
+      },
+      "date": 1543312976017
+    },
+    {
+      "type": "edit",
+      "id": "b8e96996d727271fd2a9060ebf3c1f44",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "b8e96996d727271fd2a9060ebf3c1f44"
+      },
+      "date": 1543312988676
+    },
+    {
+      "type": "remove",
+      "id": "b8e96996d727271fd2a9060ebf3c1f44",
+      "date": 1543313011891
+    },
+    {
+      "type": "edit",
+      "id": "d8341cffe88545f9ca026e6212318eba",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "d8341cffe88545f9ca026e6212318eba"
+      },
+      "date": 1543313013674
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313026767
+    },
+    {
+      "type": "remove",
+      "id": "4d7d46655cc34a4f01fdf4765e3b59d8",
+      "date": 1543313034483
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313035579
+    },
+    {
+      "type": "remove",
+      "id": "0cd0aae948208fddd3e4e4fe9b043c91",
+      "date": 1543313039996
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313041067
+    },
+    {
+      "type": "remove",
+      "id": "d62b16321c488cddc269f72ef74b334f",
+      "date": 1543313048020
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313048540
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313054261
+    },
+    {
+      "type": "edit",
+      "id": "f48d133dde51a5dc597b70a585373cad",
+      "item": {
+        "type": "markdown",
+        "text": "# Principles behind the Agile Manifesto",
+        "id": "f48d133dde51a5dc597b70a585373cad"
+      },
+      "date": 1543313068223
+    },
+    {
+      "type": "remove",
+      "id": "297dab1b39a254726695ef932a1ee22d",
+      "date": 1543313080587
+    },
+    {
+      "type": "edit",
+      "id": "89d909d1e2680924da26c4e8471ee8ec",
+      "item": {
+        "type": "html",
+        "text": "<b><i>The Manifesto for Agile Software Development (2001)</b></i>",
+        "id": "89d909d1e2680924da26c4e8471ee8ec"
+      },
+      "date": 1543313088428
+    },
+    {
+      "type": "remove",
+      "id": "0b66ae6f8a3ee17a1bc87f19883d1209",
+      "date": 1543313103664
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313104968
+    },
+    {
+      "type": "remove",
+      "id": "372cf9334542b6a7e1765d970032851e",
+      "date": 1543313110551
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313114519
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313185518
+    },
+    {
+      "type": "edit",
+      "id": "ac19834f046cc84507c329376ee44471",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "ac19834f046cc84507c329376ee44471"
+      },
+      "date": 1543313191746
+    },
+    {
+      "type": "remove",
+      "id": "ac19834f046cc84507c329376ee44471",
+      "date": 1543313194056
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313195169
+    },
+    {
+      "type": "edit",
+      "id": "afda17f1bf28ed2f64998f637b9d51c3",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "afda17f1bf28ed2f64998f637b9d51c3"
+      },
+      "date": 1543313200993
+    },
+    {
+      "type": "remove",
+      "id": "afda17f1bf28ed2f64998f637b9d51c3",
+      "date": 1543313209663
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313211668
+    },
+    {
+      "type": "edit",
+      "id": "b80ead49df55b47fbc2881d56215f93f",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "b80ead49df55b47fbc2881d56215f93f"
+      },
+      "date": 1543313219840
+    },
+    {
+      "type": "remove",
+      "id": "b80ead49df55b47fbc2881d56215f93f",
+      "date": 1543313222195
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313223118
+    },
+    {
+      "type": "edit",
+      "id": "0da0d830f2bb5289504215d4ce9fa77c",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "0da0d830f2bb5289504215d4ce9fa77c"
+      },
+      "date": 1543313235264
+    },
+    {
+      "type": "remove",
+      "id": "0da0d830f2bb5289504215d4ce9fa77c",
+      "date": 1543313237974
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313240352
+    },
+    {
+      "type": "remove",
+      "id": "93f6bf8d5709f11b59c2c31b5890ed17",
+      "date": 1543313247155
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313250249
+    },
+    {
+      "type": "remove",
+      "id": "d8341cffe88545f9ca026e6212318eba",
+      "date": 1543313258517
+    },
+    {
+      "type": "edit",
+      "id": "b8af0ea3db8c5f90377ecc57f6f082ae",
+      "item": {
+        "type": "markdown",
+        "text": "We follow these principles:\n\n1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.\n1. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.\n1. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter timescale.\n1. Business people and developers must work together daily throughout the project.\n1. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.\n1. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.\n1. Working software is the primary measure of progress.\n1. Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.\n1. Continuous attention to technical excellence and good design enhances agility.\n1. Simplicity -- the art of maximizing the amount of work not done -- is essential.\n1. The best architectures, requirements, and designs emerge from self-organizing teams.\n- At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. ",
+        "id": "b8af0ea3db8c5f90377ecc57f6f082ae"
+      },
+      "date": 1543313259575
+    },
+    {
+      "type": "edit",
+      "id": "36c1e46e8b0efd0c141f32709d4701fc",
+      "item": {
+        "type": "html",
+        "text": "<blockquote>\nTo improve is to change, to be perfect is to change often. - Winston Churchill\n<blockquote>",
+        "id": "36c1e46e8b0efd0c141f32709d4701fc"
+      },
+      "date": 1543313290508
+    },
+    {
+      "type": "edit",
+      "id": "36c1e46e8b0efd0c141f32709d4701fc",
+      "item": {
+        "type": "html",
+        "text": "<blockquote>\nTo improve is to change, to be perfect is to change often. - Winston Churchill\n<blockquote>",
+        "id": "36c1e46e8b0efd0c141f32709d4701fc"
+      },
+      "date": 1543313300308
+    },
+    {
+      "type": "edit",
+      "id": "36c1e46e8b0efd0c141f32709d4701fc",
+      "item": {
+        "type": "html",
+        "text": "<blockquote>\nTo improve is to change, to be perfect is to change often. - Winston Churchill\n<blockquote>",
+        "id": "36c1e46e8b0efd0c141f32709d4701fc"
+      },
+      "date": 1543313306650
+    },
+    {
+      "type": "remove",
+      "id": "e2a7d916be0ce110f83623fb5e451280",
+      "date": 1543313323175
+    },
+    {
+      "type": "move",
+      "order": [
+        "89d909d1e2680924da26c4e8471ee8ec",
+        "36c1e46e8b0efd0c141f32709d4701fc",
+        "cc8ec5f9dbc68e79053128c15b18da6d",
+        "00b5d9f3b5a8b8e449575ed34e484873",
+        "f939331eeb3067f5c004dcddd0ff8833",
+        "1d450704d3a73a6de81e3f416bceb41a",
+        "f48d133dde51a5dc597b70a585373cad",
+        "b8af0ea3db8c5f90377ecc57f6f082ae",
+        "d00fe9138fd4ea4b98d16fa105248a1e",
+        "d00fe9138fd4ea4b98d16fa105248a1e",
+        "4a94aada5b40e04b0d4ea188f273dc52",
+        "3d2399bf9430306c9cfd0590e94ef35b",
+        "cc1d3a60f9e5bde253b8b67d8b84919c",
+        "bf8b800900845439a96534425e830468",
+        "d00fe9138fd4ea4b98d16fa105248a1e",
+        "2b97442bedbadb2a46259363d6743837",
+        "70f4bdee0e7ec874eec510775751da7a",
+        "d00fe9138fd4ea4b98d16fa105248a1e",
+        "097652575c4e753c9fd9a2c46f40b707",
+        "d00fe9138fd4ea4b98d16fa105248a1e",
+        "d8ee828990f3a6e829df16d0b786b862",
+        "c7417d1b502a85ba92babb7160c28ae5"
+      ],
+      "id": "36c1e46e8b0efd0c141f32709d4701fc",
+      "date": 1543313335092
+    },
+    {
+      "type": "edit",
+      "id": "c7417d1b502a85ba92babb7160c28ae5",
+      "item": {
+        "type": "markdown",
+        "text": "# See also\n\n- Original on [http://c2.com/cgi/wiki?AgileManifesto c2.com]\n- [http://www.sdmagazine.com/documents/s=844/sdm0108a/0108a.htm www.sdmagazine.com]\n- [[Agile Tng]]",
+        "id": "c7417d1b502a85ba92babb7160c28ae5"
+      },
+      "date": 1543313379930
+    },
+    {
+      "type": "edit",
+      "id": "c7417d1b502a85ba92babb7160c28ae5",
+      "item": {
+        "type": "markdown",
+        "text": "# See also\n\n- Original on [http://c2.com/cgi/wiki?AgileManifesto c2.com]\n- [http://www.sdmagazine.com/documents/s=844/sdm0108a/0108a.htm www.sdmagazine.com]\n- [[Agile Tng]]",
+        "id": "c7417d1b502a85ba92babb7160c28ae5"
+      },
+      "date": 1543313400774
+    },
+    {
+      "type": "edit",
+      "id": "c7417d1b502a85ba92babb7160c28ae5",
+      "item": {
+        "type": "markdown",
+        "text": "# See also\n\n- Original on [http://c2.com/cgi/wiki?AgileManifesto c2.com]\n- [http://www.sdmagazine.com/documents/s=844/sdm0108a/0108a.htm www.sdmagazine.com]\n- [[Agile Tng]]",
+        "id": "c7417d1b502a85ba92babb7160c28ae5"
+      },
+      "date": 1543313432431
+    },
+    {
+      "type": "remove",
+      "id": "d8ee828990f3a6e829df16d0b786b862",
+      "date": 1543313441188
+    },
+    {
+      "type": "remove",
+      "id": "097652575c4e753c9fd9a2c46f40b707",
+      "date": 1543313443895
+    },
+    {
+      "type": "remove",
+      "id": "2b97442bedbadb2a46259363d6743837",
+      "date": 1543313462288
+    },
+    {
+      "type": "edit",
+      "id": "70f4bdee0e7ec874eec510775751da7a",
+      "item": {
+        "type": "html",
+        "text": "",
+        "id": "70f4bdee0e7ec874eec510775751da7a"
+      },
+      "date": 1543313471822
+    },
+    {
+      "type": "remove",
+      "id": "d00fe9138fd4ea4b98d16fa105248a1e",
+      "date": 1543313478001
+    },
+    {
+      "type": "remove",
+      "id": "d00fe9138fd4ea4b98d16fa105248a1e",
+      "date": 1543313484672
+    },
+    {
+      "type": "remove",
+      "id": "d00fe9138fd4ea4b98d16fa105248a1e",
+      "date": 1543313489975
+    },
+    {
+      "type": "edit",
+      "id": "4a94aada5b40e04b0d4ea188f273dc52",
+      "item": {
+        "type": "markdown",
+        "text": "Contrast with: \n- [[Fragile Manifesto]]\n- [[The Real Definition Of Agile]]\n- [[Hacker Methodology]]",
+        "id": "4a94aada5b40e04b0d4ea188f273dc52"
+      },
+      "date": 1543313498636
+    },
+    {
+      "type": "edit",
+      "id": "3d2399bf9430306c9cfd0590e94ef35b",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "3d2399bf9430306c9cfd0590e94ef35b"
+      },
+      "date": 1543313506661
+    },
+    {
+      "type": "remove",
+      "id": "3d2399bf9430306c9cfd0590e94ef35b",
+      "date": 1543313508922
+    },
+    {
+      "type": "edit",
+      "id": "4a94aada5b40e04b0d4ea188f273dc52",
+      "item": {
+        "type": "markdown",
+        "text": "Contrast with: \n- [[Fragile Manifesto]]\n- [[The Real Definition Of Agile]]\n- [[Hacker Methodology]]",
+        "id": "4a94aada5b40e04b0d4ea188f273dc52"
+      },
+      "date": 1543313510074
+    },
+    {
+      "type": "edit",
+      "id": "cc1d3a60f9e5bde253b8b67d8b84919c",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "cc1d3a60f9e5bde253b8b67d8b84919c"
+      },
+      "date": 1543313516746
+    },
+    {
+      "type": "remove",
+      "id": "cc1d3a60f9e5bde253b8b67d8b84919c",
+      "date": 1543313519275
+    },
+    {
+      "type": "edit",
+      "id": "4a94aada5b40e04b0d4ea188f273dc52",
+      "item": {
+        "type": "markdown",
+        "text": "Contrast with: \n- [[Fragile Manifesto]]\n- [[The Real Definition Of Agile]]\n- [[Hacker Methodology]]",
+        "id": "4a94aada5b40e04b0d4ea188f273dc52"
+      },
+      "date": 1543313520251
+    },
+    {
+      "type": "edit",
+      "id": "bf8b800900845439a96534425e830468",
+      "item": {
+        "type": "markdown",
+        "text": "",
+        "id": "bf8b800900845439a96534425e830468"
+      },
+      "date": 1543313527227
+    },
+    {
+      "type": "remove",
+      "id": "bf8b800900845439a96534425e830468",
+      "date": 1543313531499
+    },
+    {
+      "type": "edit",
+      "id": "4a94aada5b40e04b0d4ea188f273dc52",
+      "item": {
+        "type": "markdown",
+        "text": "Contrast with: \n- [[Fragile Manifesto]]\n- [[The Real Definition Of Agile]]\n- [[Hacker Methodology]]",
+        "id": "4a94aada5b40e04b0d4ea188f273dc52"
+      },
+      "date": 1543313533164
+    },
+    {
+      "type": "remove",
+      "id": "70f4bdee0e7ec874eec510775751da7a",
+      "date": 1543313540170
+    },
+    {
+      "type": "edit",
+      "id": "c7417d1b502a85ba92babb7160c28ae5",
+      "item": {
+        "type": "markdown",
+        "text": "# See also\n\n- Original on [http://c2.com/cgi/wiki?AgileManifesto c2.com]\n- [http://www.sdmagazine.com/documents/s=844/sdm0108a/0108a.htm www.sdmagazine.com]\n- [[Agile Tng]]",
+        "id": "c7417d1b502a85ba92babb7160c28ae5"
+      },
+      "date": 1543313553316
+    },
+    {
+      "type": "move",
+      "order": [
+        "89d909d1e2680924da26c4e8471ee8ec",
+        "36c1e46e8b0efd0c141f32709d4701fc",
+        "cc8ec5f9dbc68e79053128c15b18da6d",
+        "00b5d9f3b5a8b8e449575ed34e484873",
+        "f939331eeb3067f5c004dcddd0ff8833",
+        "1d450704d3a73a6de81e3f416bceb41a",
+        "f48d133dde51a5dc597b70a585373cad",
+        "b8af0ea3db8c5f90377ecc57f6f082ae",
+        "d00fe9138fd4ea4b98d16fa105248a1e",
+        "4a94aada5b40e04b0d4ea188f273dc52",
+        "c7417d1b502a85ba92babb7160c28ae5",
+        "d00fe9138fd4ea4b98d16fa105248a1e"
+      ],
+      "id": "d00fe9138fd4ea4b98d16fa105248a1e",
+      "date": 1543313580931,
+      "error": {
+        "type": "error",
+        "msg": "Internal Server Error",
+        "response": "Server Ignoring move. Try reload."
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1543313588913
+    },
+    {
+      "type": "remove",
+      "id": "d00fe9138fd4ea4b98d16fa105248a1e",
+      "date": 1543313600707
+    },
+    {
+      "type": "remove",
+      "id": "d00fe9138fd4ea4b98d16fa105248a1e",
+      "date": 1543313611076
+    },
+    {
+      "type": "edit",
+      "id": "4a94aada5b40e04b0d4ea188f273dc52",
+      "item": {
+        "type": "markdown",
+        "text": "# Contrast with\n\n- [[Fragile Manifesto]]\n- [[The Real Definition Of Agile]]\n- [[Hacker Methodology]]",
+        "id": "4a94aada5b40e04b0d4ea188f273dc52"
+      },
+      "date": 1543313621413
+    },
+    {
+      "type": "fork",
+      "site": "governance.platform.earth",
+      "date": 1549534432851
+    },
+    {
+      "type": "edit",
+      "id": "c7417d1b502a85ba92babb7160c28ae5",
+      "item": {
+        "type": "markdown",
+        "text": "# See also\n",
+        "id": "c7417d1b502a85ba92babb7160c28ae5"
+      },
+      "date": 1549534473441
+    },
+    {
+      "type": "add",
+      "id": "9b466e483d53d7a6",
+      "item": {
+        "type": "markdown",
+        "id": "9b466e483d53d7a6",
+        "text": "- Original on [http://c2.com/cgi/wiki?AgileManifesto c2.com]\n- [http://www.sdmagazine.com/documents/s=844/sdm0108a/0108a.htm www.sdmagazine.com]\n- [[Agile Tng]]\n- [[Defrauding the Manifesto]]"
+      },
+      "after": "c7417d1b502a85ba92babb7160c28ae5",
+      "date": 1549534481775
+    },
+    {
+      "type": "edit",
+      "id": "9b466e483d53d7a6",
+      "item": {
+        "type": "markdown",
+        "id": "9b466e483d53d7a6",
+        "text": "- Original on [http://c2.com/cgi/wiki?AgileManifesto c2.com]\n- [http://www.sdmagazine.com/documents/s=844/sdm0108a/0108a.htm www.sdmagazine.com]\n- [[Agile Tng]]\n- [[Defrauding the Manifesto]]\n- [[12th Principle]]"
+      },
+      "date": 1549534514462
+    },
+    {
+      "type": "edit",
+      "id": "9b466e483d53d7a6",
+      "item": {
+        "type": "markdown",
+        "id": "9b466e483d53d7a6",
+        "text": "- Original on [http://c2.com/cgi/wiki?AgileManifesto c2.com]\n- [http://www.sdmagazine.com/documents/s=844/sdm0108a/0108a.htm www.sdmagazine.com]\n- [[Agile Tng]]\n- [[Defrauding the Manifesto]]\n- [[12th Principle]]\n- [[Agile Manifesto Translations]]"
+      },
+      "date": 1549809255213
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "97ff33811f34bac5"
+      },
+      "id": "97ff33811f34bac5",
+      "type": "add",
+      "after": "9b466e483d53d7a6",
+      "date": 1549809384478
+    },
+    {
+      "type": "edit",
+      "id": "97ff33811f34bac5",
+      "item": {
+        "type": "reference",
+        "id": "97ff33811f34bac5",
+        "site": "www.xpdx.org",
+        "slug": "agile-manifesto",
+        "title": "Agile Manifesto",
+        "text": "The agile manifesto website was created as a poster advertising four observations that resonated with the attendees of a \"lightweight\" methods workshop."
+      },
+      "date": 1549809388060
+    }
+  ]
+}
