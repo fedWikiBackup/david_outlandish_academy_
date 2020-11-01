@@ -1,0 +1,308 @@
+{
+  "title": "Study circle",
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Study circle"
+      },
+      "date": 1498645208892,
+      "source": {
+        "pageTitle": "Study circle",
+        "pageSlug": "Study_circle",
+        "url": "https://en.wikipedia.org/wiki/Study_circle",
+        "date": 1498645208892,
+        "link_dictionary": {
+          "wiki_links": {
+            "History and evolution": {
+              "section_number": 2,
+              "section_level": 2,
+              "dot_number": 2
+            },
+            "Further reading": {
+              "section_number": 5,
+              "section_level": 2,
+              "dot_number": 5
+            },
+            "See also": {
+              "section_number": 3,
+              "section_level": 2,
+              "dot_number": 3
+            },
+            "External links": {
+              "section_number": 6,
+              "section_level": 2,
+              "dot_number": 6
+            },
+            "References": {
+              "section_number": 4,
+              "section_level": 2,
+              "dot_number": 4
+            },
+            "Study circle basics": {
+              "section_number": 1,
+              "section_level": 2,
+              "dot_number": 1
+            }
+          },
+          "default": {
+            "transport": "https://livecode.world/mediawiki/importSection"
+          }
+        },
+        "transport": "https://livecode.world/mediawiki/transportAgain",
+        "rev": 787601282,
+        "repo": "https://github.com/LiveCodeWorld/lib_MediaWiki"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1498645227599
+    },
+    {
+      "type": "edit",
+      "id": "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1",
+      "item": {
+        "type": "markdown",
+        "id": "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1",
+        "text": "# See also\n* [[Study circle basics]]\n* [[History of Study Circles]]\n* [[See also]]\n* [[References]]\n* [[Further reading]]\n* [[External links]]"
+      },
+      "date": 1498645358118
+    },
+    {
+      "type": "edit",
+      "id": "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1",
+      "item": {
+        "type": "markdown",
+        "id": "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1",
+        "text": "# See also\n\n- [[Study circle basics]]\n- [[History of Study Circles]]\n- [https://ec.europa.eu/epale/en/blog/study-circle-swedish-method-adult-education fda]\n"
+      },
+      "date": 1498645481383
+    },
+    {
+      "type": "edit",
+      "id": "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1",
+      "item": {
+        "type": "markdown",
+        "id": "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1",
+        "text": "# See also\n\n- [[Study circle basics]]\n- [[History of Study Circles]]\n- [https://ec.europa.eu/epale/en/blog/study-circle-swedish-method-adult-education Study Circle. Swedish method of adult education]\n"
+      },
+      "date": 1498645508385
+    },
+    {
+      "type": "fork",
+      "site": "david.outlandish.academy",
+      "date": 1498645526470
+    },
+    {
+      "type": "edit",
+      "id": "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1",
+      "item": {
+        "type": "markdown",
+        "id": "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1",
+        "text": "# See also\n\n- [[Study circle basics]]\n- [[History of Study Circles]]\n- [[Study Circles in Sweden]]\n- [[Study Circles in Australia]]\n- [https://ec.europa.eu/epale/en/blog/study-circle-swedish-method-adult-education Study Circle. Swedish method of adult education]\n"
+      },
+      "date": 1498646142297
+    },
+    {
+      "type": "edit",
+      "id": "46bb061c-80f5-4f8c-a228-c426c5607a4d",
+      "item": {
+        "type": "paragraph",
+        "id": "46bb061c-80f5-4f8c-a228-c426c5607a4d",
+        "text": "A study circle is a small group of people who meet multiple times to discuss an issue. Study circles may be formed to discuss anything from politics to religion to hobbies. "
+      },
+      "date": 1568630882559
+    },
+    {
+      "type": "add",
+      "id": "e24dcf4da3c62524",
+      "item": {
+        "type": "paragraph",
+        "id": "e24dcf4da3c62524",
+        "text": "They are differentiated from clubs by their focus on exploring an issue or topic rather than on activities or socializing. When they emerged in the early twentieth century they were based on a democratic approach to self-education and were often linked to social movements concerned with temperance or working class emancipation."
+      },
+      "after": "46bb061c-80f5-4f8c-a228-c426c5607a4d",
+      "date": 1568630887428
+    },
+    {
+      "type": "edit",
+      "id": "46bb061c-80f5-4f8c-a228-c426c5607a4d",
+      "item": {
+        "type": "paragraph",
+        "id": "46bb061c-80f5-4f8c-a228-c426c5607a4d",
+        "text": "A study circle is a small group of people who meet multiple times to discuss an issue. Study circles may be formed to discuss anything from politics to religion to hobbies - [https://en.wikipedia.org/wiki/Study_circle wikipedia]"
+      },
+      "date": 1568630890842
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "f5790461b2ee3ff0"
+      },
+      "id": "f5790461b2ee3ff0",
+      "type": "add",
+      "after": "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1",
+      "date": 1568631238805
+    },
+    {
+      "type": "edit",
+      "id": "f5790461b2ee3ff0",
+      "item": {
+        "type": "graphviz",
+        "id": "f5790461b2ee3ff0",
+        "text": "DOT FROM wiki-map"
+      },
+      "date": 1568631282965
+    },
+    {
+      "type": "add",
+      "id": "58e1398605857e87",
+      "item": {
+        "type": "paragraph",
+        "id": "58e1398605857e87",
+        "text": "# Context"
+      },
+      "after": "e24dcf4da3c62524",
+      "date": 1568631370161
+    },
+    {
+      "type": "edit",
+      "id": "58e1398605857e87",
+      "item": {
+        "type": "markdown",
+        "id": "58e1398605857e87",
+        "text": "# Context"
+      },
+      "date": 1568631371818
+    },
+    {
+      "id": "f5790461b2ee3ff0",
+      "type": "move",
+      "order": [
+        "46bb061c-80f5-4f8c-a228-c426c5607a4d",
+        "e24dcf4da3c62524",
+        "58e1398605857e87",
+        "f5790461b2ee3ff0",
+        "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1"
+      ],
+      "date": 1568631374551
+    },
+    {
+      "type": "edit",
+      "id": "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1",
+      "item": {
+        "type": "markdown",
+        "id": "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1",
+        "text": "# See also\n\n- [[Study circle basics]]\n- [[History of Study Circles]]\n- [[Study Circles in Sweden]]\n- [[Study Circles in Australia]]\n- [[Research Group]]\n"
+      },
+      "date": 1568631617697
+    },
+    {
+      "type": "add",
+      "id": "e83de0d627c0e249",
+      "item": {
+        "type": "markdown",
+        "id": "e83de0d627c0e249",
+        "text": "- [https://ec.europa.eu/epale/en/blog/study-circle-swedish-method-adult-education Study Circle. Swedish method of adult education]\n"
+      },
+      "after": "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1",
+      "date": 1568631618522
+    },
+    {
+      "type": "edit",
+      "id": "e83de0d627c0e249",
+      "item": {
+        "type": "markdown",
+        "id": "e83de0d627c0e249",
+        "text": "- Study Circle. Swedish method of adult education - [https://ec.europa.eu/epale/en/blog/study-circle-swedish-method-adult-education europa.eu]\n"
+      },
+      "date": 1568631649910
+    },
+    {
+      "type": "edit",
+      "id": "e83de0d627c0e249",
+      "item": {
+        "type": "markdown",
+        "id": "e83de0d627c0e249",
+        "text": "# References\n- Study Circle. Swedish method of adult education - [https://ec.europa.eu/epale/en/blog/study-circle-swedish-method-adult-education europa.eu]\n"
+      },
+      "date": 1568631660992
+    },
+    {
+      "type": "fork",
+      "site": "outlandish.academy",
+      "date": 1603025001992
+    },
+    {
+      "type": "edit",
+      "id": "f5790461b2ee3ff0",
+      "item": {
+        "type": "graphviz",
+        "id": "f5790461b2ee3ff0",
+        "text": "DOT FROM wiki-map",
+        "dot": "strict digraph {rankdir=LR\n\n\n\nnode [style=filled fillcolor=lightyellow penwidth=3 color=black]\n\"Study\ncircle\"\nnode [style=filled fillcolor=lightblue]\n\"Study\ncircle\" -> \"Study\ncircle\nbasics\"\n\"Study\ncircle\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nAustralia\"\n\"Study\ncircle\" -> \"Research\nGroup\"\nnode [style=filled fillcolor=white]\n\"Study\ncircle\nbasics\"\n\"Study\ncircle\nbasics\" -> \"Study\ncircle\"\n\"Study\ncircle\nbasics\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"History\nof\nStudy\nCircles\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nSweden\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"Research\nGroup\"\n\"Research\nGroup\" -> \"Study\ncircle\nbasics\"\n\"Research\nGroup\" -> \"History\nof\nStudy\nCircles\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nSweden\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nAustralia\"}",
+        "svg": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\"\n \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">\n<!-- Generated by graphviz version 2.44.0 (20200518.1210)\n -->\n<!-- Pages: 1 -->\n<svg width=\"446pt\" height=\"364pt\"\n viewBox=\"0.00 0.00 446.21 364.35\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<g id=\"graph0\" class=\"graph\" transform=\"scale(1 1) rotate(0) translate(4 360.35)\">\n<polygon fill=\"white\" stroke=\"transparent\" points=\"-4,4 -4,-360.35 442.21,-360.35 442.21,4 -4,4\"/>\n<!-- Study\ncircle -->\n<g id=\"node1\" class=\"node\">\n<title>Study\ncircle</title>\n<ellipse fill=\"lightyellow\" stroke=\"black\" stroke-width=\"3\" cx=\"34.42\" cy=\"-201.17\" rx=\"34.33\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"34.42\" y=\"-205.37\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"34.42\" y=\"-188.57\" font-family=\"Times,serif\" font-size=\"14.00\">circle</text>\n</g>\n<!-- Study\ncircle\nbasics -->\n<g id=\"node2\" class=\"node\">\n<title>Study\ncircle\nbasics</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"271.51\" cy=\"-234.17\" rx=\"35.51\" ry=\"41.09\"/>\n<text text-anchor=\"middle\" x=\"271.51\" y=\"-246.77\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"271.51\" y=\"-229.97\" font-family=\"Times,serif\" font-size=\"14.00\">circle</text>\n<text text-anchor=\"middle\" x=\"271.51\" y=\"-213.17\" font-family=\"Times,serif\" font-size=\"14.00\">basics</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Study\ncircle\nbasics -->\n<g id=\"edge1\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Study\ncircle\nbasics</title>\n<path fill=\"none\" stroke=\"black\" d=\"M69.1,-201C110.65,-204.54 181.37,-214.31 226.99,-222.68\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"226.42,-226.14 236.89,-224.56 227.72,-219.26 226.42,-226.14\"/>\n</g>\n<!-- History\nof\nStudy\nCircles -->\n<g id=\"node3\" class=\"node\">\n<title>History\nof\nStudy\nCircles</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"390.61\" cy=\"-303.17\" rx=\"41.01\" ry=\"53.35\"/>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-324.17\" font-family=\"Times,serif\" font-size=\"14.00\">History</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-307.37\" font-family=\"Times,serif\" font-size=\"14.00\">of</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-290.57\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-273.77\" font-family=\"Times,serif\" font-size=\"14.00\">Circles</text>\n</g>\n<!-- Study\ncircle&#45;&gt;History\nof\nStudy\nCircles -->\n<g id=\"edge2\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;History\nof\nStudy\nCircles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M60.93,-220.29C97.44,-246.3 167.75,-291.53 236.01,-308.17 270.01,-316.46 309.5,-314.95 339.92,-311.49\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"340.38,-314.96 349.87,-310.26 339.51,-308.02 340.38,-314.96\"/>\n</g>\n<!-- Study\nCircles\nin\nSweden -->\n<g id=\"node4\" class=\"node\">\n<title>Study\nCircles\nin\nSweden</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"390.61\" cy=\"-53.17\" rx=\"42.8\" ry=\"53.35\"/>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-74.17\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-57.37\" font-family=\"Times,serif\" font-size=\"14.00\">Circles</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-40.57\" font-family=\"Times,serif\" font-size=\"14.00\">in</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-23.77\" font-family=\"Times,serif\" font-size=\"14.00\">Sweden</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Study\nCircles\nin\nSweden -->\n<g id=\"edge3\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Study\nCircles\nin\nSweden</title>\n<path fill=\"none\" stroke=\"black\" d=\"M49.07,-174.47C60.98,-153.92 80.22,-126.52 104.83,-111.17 176.89,-66.27 277.25,-55.34 337.58,-53.12\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"337.75,-56.62 347.64,-52.82 337.54,-49.62 337.75,-56.62\"/>\n</g>\n<!-- Study\nCircles\nin\nAustralia -->\n<g id=\"node5\" class=\"node\">\n<title>Study\nCircles\nin\nAustralia</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"390.61\" cy=\"-177.17\" rx=\"47.69\" ry=\"53.35\"/>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-198.17\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-181.37\" font-family=\"Times,serif\" font-size=\"14.00\">Circles</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-164.57\" font-family=\"Times,serif\" font-size=\"14.00\">in</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-147.77\" font-family=\"Times,serif\" font-size=\"14.00\">Australia</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Study\nCircles\nin\nAustralia -->\n<g id=\"edge4\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Study\nCircles\nin\nAustralia</title>\n<path fill=\"none\" stroke=\"black\" d=\"M52.09,-175.71C64.45,-159.31 82.91,-139.4 104.83,-130.17 181.62,-97.86 278.77,-127.34 337.46,-151.98\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"336.32,-155.3 346.89,-156.04 339.09,-148.87 336.32,-155.3\"/>\n</g>\n<!-- Research\nGroup -->\n<g id=\"node6\" class=\"node\">\n<title>Research\nGroup</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"152.42\" cy=\"-168.17\" rx=\"47.68\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"152.42\" y=\"-172.37\" font-family=\"Times,serif\" font-size=\"14.00\">Research</text>\n<text text-anchor=\"middle\" x=\"152.42\" y=\"-155.57\" font-family=\"Times,serif\" font-size=\"14.00\">Group</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Research\nGroup -->\n<g id=\"edge5\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Research\nGroup</title>\n<path fill=\"none\" stroke=\"black\" d=\"M67.42,-192.07C77.18,-189.29 88.17,-186.17 98.91,-183.11\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"100,-186.44 108.66,-180.34 98.08,-179.71 100,-186.44\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;Study\ncircle -->\n<g id=\"edge6\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;Study\ncircle</title>\n<path fill=\"none\" stroke=\"black\" d=\"M235.88,-234.27C193.67,-230.61 122.4,-220.73 77.19,-212.34\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"77.6,-208.86 67.12,-210.41 76.29,-215.73 77.6,-208.86\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;History\nof\nStudy\nCircles -->\n<g id=\"edge7\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;History\nof\nStudy\nCircles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M303.59,-252.48C316.04,-259.82 330.63,-268.42 344.23,-276.43\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"342.59,-279.53 352.98,-281.59 346.15,-273.5 342.59,-279.53\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nSweden -->\n<g id=\"edge8\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nSweden</title>\n<path fill=\"none\" stroke=\"black\" d=\"M291.45,-199.97C305.13,-175.85 324.39,-143.02 343.02,-115.17 346.56,-109.89 350.37,-104.44 354.25,-99.07\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"357.27,-100.87 360.36,-90.73 351.62,-96.73 357.27,-100.87\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nAustralia -->\n<g id=\"edge9\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nAustralia</title>\n<path fill=\"none\" stroke=\"black\" d=\"M304.51,-218.6C314.67,-213.65 326.18,-208.05 337.38,-202.6\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"339.22,-205.6 346.68,-198.08 336.15,-199.31 339.22,-205.6\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;Study\ncircle\nbasics -->\n<g id=\"edge10\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;Study\ncircle\nbasics</title>\n<path fill=\"none\" stroke=\"black\" d=\"M188.24,-187.8C201.51,-195.28 216.74,-203.86 230.46,-211.6\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"228.79,-214.68 239.22,-216.54 232.23,-208.58 228.79,-214.68\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;History\nof\nStudy\nCircles -->\n<g id=\"edge11\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;History\nof\nStudy\nCircles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M165.34,-196.59C178.42,-223.92 202.14,-263.98 236.01,-284.17 266.91,-302.59 307.49,-306.94 339.19,-306.9\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"339.63,-310.4 349.57,-306.74 339.51,-303.4 339.63,-310.4\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;Study\nCircles\nin\nSweden -->\n<g id=\"edge12\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;Study\nCircles\nin\nSweden</title>\n<path fill=\"none\" stroke=\"black\" d=\"M190.33,-150.21C231.03,-130.39 296.66,-98.43 341.4,-76.65\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"343.15,-79.69 350.61,-72.16 340.09,-73.4 343.15,-79.69\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;Study\nCircles\nin\nAustralia -->\n<g id=\"edge13\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;Study\nCircles\nin\nAustralia</title>\n<path fill=\"none\" stroke=\"black\" d=\"M200.09,-169.95C238.14,-171.4 292.03,-173.46 332.63,-175\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"332.52,-178.5 342.64,-175.38 332.78,-171.51 332.52,-178.5\"/>\n</g>\n</g>\n</svg>\n"
+      },
+      "date": 1603025087706
+    },
+    {
+      "type": "edit",
+      "id": "f5790461b2ee3ff0",
+      "item": {
+        "type": "graphviz",
+        "id": "f5790461b2ee3ff0",
+        "text": "STATIC\n\nstrict digraph {rankdir=LR\n\n\n\nnode [style=filled fillcolor=lightyellow penwidth=3 color=black]\n\"Study\ncircle\"\nnode [style=filled fillcolor=lightblue]\n\"Study\ncircle\" -> \"Study\ncircle\nbasics\"\n\"Study\ncircle\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nAustralia\"\n\"Study\ncircle\" -> \"Research\nGroup\"\nnode [style=filled fillcolor=white]\n\"Study\ncircle\nbasics\"\n\"Study\ncircle\nbasics\" -> \"Study\ncircle\"\n\"Study\ncircle\nbasics\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"History\nof\nStudy\nCircles\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nSweden\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"Research\nGroup\"\n\"Research\nGroup\" -> \"Study\ncircle\nbasics\"\n\"Research\nGroup\" -> \"History\nof\nStudy\nCircles\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nSweden\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nAustralia\"}",
+        "dot": "strict digraph {rankdir=LR\n\n\n\nnode [style=filled fillcolor=lightyellow penwidth=3 color=black]\n\"Study\ncircle\"\nnode [style=filled fillcolor=lightblue]\n\"Study\ncircle\" -> \"Study\ncircle\nbasics\"\n\"Study\ncircle\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nAustralia\"\n\"Study\ncircle\" -> \"Research\nGroup\"\nnode [style=filled fillcolor=white]\n\"Study\ncircle\nbasics\"\n\"Study\ncircle\nbasics\" -> \"Study\ncircle\"\n\"Study\ncircle\nbasics\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"History\nof\nStudy\nCircles\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nSweden\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"Research\nGroup\"\n\"Research\nGroup\" -> \"Study\ncircle\nbasics\"\n\"Research\nGroup\" -> \"History\nof\nStudy\nCircles\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nSweden\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nAustralia\"}",
+        "svg": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\"\n \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">\n<!-- Generated by graphviz version 2.44.0 (20200518.1210)\n -->\n<!-- Pages: 1 -->\n<svg width=\"446pt\" height=\"364pt\"\n viewBox=\"0.00 0.00 446.21 364.35\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<g id=\"graph0\" class=\"graph\" transform=\"scale(1 1) rotate(0) translate(4 360.35)\">\n<polygon fill=\"white\" stroke=\"transparent\" points=\"-4,4 -4,-360.35 442.21,-360.35 442.21,4 -4,4\"/>\n<!-- Study\ncircle -->\n<g id=\"node1\" class=\"node\">\n<title>Study\ncircle</title>\n<ellipse fill=\"lightyellow\" stroke=\"black\" stroke-width=\"3\" cx=\"34.42\" cy=\"-201.17\" rx=\"34.33\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"34.42\" y=\"-205.37\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"34.42\" y=\"-188.57\" font-family=\"Times,serif\" font-size=\"14.00\">circle</text>\n</g>\n<!-- Study\ncircle\nbasics -->\n<g id=\"node2\" class=\"node\">\n<title>Study\ncircle\nbasics</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"271.51\" cy=\"-234.17\" rx=\"35.51\" ry=\"41.09\"/>\n<text text-anchor=\"middle\" x=\"271.51\" y=\"-246.77\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"271.51\" y=\"-229.97\" font-family=\"Times,serif\" font-size=\"14.00\">circle</text>\n<text text-anchor=\"middle\" x=\"271.51\" y=\"-213.17\" font-family=\"Times,serif\" font-size=\"14.00\">basics</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Study\ncircle\nbasics -->\n<g id=\"edge1\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Study\ncircle\nbasics</title>\n<path fill=\"none\" stroke=\"black\" d=\"M69.1,-201C110.65,-204.54 181.37,-214.31 226.99,-222.68\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"226.42,-226.14 236.89,-224.56 227.72,-219.26 226.42,-226.14\"/>\n</g>\n<!-- History\nof\nStudy\nCircles -->\n<g id=\"node3\" class=\"node\">\n<title>History\nof\nStudy\nCircles</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"390.61\" cy=\"-303.17\" rx=\"41.01\" ry=\"53.35\"/>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-324.17\" font-family=\"Times,serif\" font-size=\"14.00\">History</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-307.37\" font-family=\"Times,serif\" font-size=\"14.00\">of</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-290.57\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-273.77\" font-family=\"Times,serif\" font-size=\"14.00\">Circles</text>\n</g>\n<!-- Study\ncircle&#45;&gt;History\nof\nStudy\nCircles -->\n<g id=\"edge2\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;History\nof\nStudy\nCircles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M60.93,-220.29C97.44,-246.3 167.75,-291.53 236.01,-308.17 270.01,-316.46 309.5,-314.95 339.92,-311.49\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"340.38,-314.96 349.87,-310.26 339.51,-308.02 340.38,-314.96\"/>\n</g>\n<!-- Study\nCircles\nin\nSweden -->\n<g id=\"node4\" class=\"node\">\n<title>Study\nCircles\nin\nSweden</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"390.61\" cy=\"-53.17\" rx=\"42.8\" ry=\"53.35\"/>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-74.17\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-57.37\" font-family=\"Times,serif\" font-size=\"14.00\">Circles</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-40.57\" font-family=\"Times,serif\" font-size=\"14.00\">in</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-23.77\" font-family=\"Times,serif\" font-size=\"14.00\">Sweden</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Study\nCircles\nin\nSweden -->\n<g id=\"edge3\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Study\nCircles\nin\nSweden</title>\n<path fill=\"none\" stroke=\"black\" d=\"M49.07,-174.47C60.98,-153.92 80.22,-126.52 104.83,-111.17 176.89,-66.27 277.25,-55.34 337.58,-53.12\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"337.75,-56.62 347.64,-52.82 337.54,-49.62 337.75,-56.62\"/>\n</g>\n<!-- Study\nCircles\nin\nAustralia -->\n<g id=\"node5\" class=\"node\">\n<title>Study\nCircles\nin\nAustralia</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"390.61\" cy=\"-177.17\" rx=\"47.69\" ry=\"53.35\"/>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-198.17\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-181.37\" font-family=\"Times,serif\" font-size=\"14.00\">Circles</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-164.57\" font-family=\"Times,serif\" font-size=\"14.00\">in</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-147.77\" font-family=\"Times,serif\" font-size=\"14.00\">Australia</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Study\nCircles\nin\nAustralia -->\n<g id=\"edge4\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Study\nCircles\nin\nAustralia</title>\n<path fill=\"none\" stroke=\"black\" d=\"M52.09,-175.71C64.45,-159.31 82.91,-139.4 104.83,-130.17 181.62,-97.86 278.77,-127.34 337.46,-151.98\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"336.32,-155.3 346.89,-156.04 339.09,-148.87 336.32,-155.3\"/>\n</g>\n<!-- Research\nGroup -->\n<g id=\"node6\" class=\"node\">\n<title>Research\nGroup</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"152.42\" cy=\"-168.17\" rx=\"47.68\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"152.42\" y=\"-172.37\" font-family=\"Times,serif\" font-size=\"14.00\">Research</text>\n<text text-anchor=\"middle\" x=\"152.42\" y=\"-155.57\" font-family=\"Times,serif\" font-size=\"14.00\">Group</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Research\nGroup -->\n<g id=\"edge5\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Research\nGroup</title>\n<path fill=\"none\" stroke=\"black\" d=\"M67.42,-192.07C77.18,-189.29 88.17,-186.17 98.91,-183.11\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"100,-186.44 108.66,-180.34 98.08,-179.71 100,-186.44\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;Study\ncircle -->\n<g id=\"edge6\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;Study\ncircle</title>\n<path fill=\"none\" stroke=\"black\" d=\"M235.88,-234.27C193.67,-230.61 122.4,-220.73 77.19,-212.34\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"77.6,-208.86 67.12,-210.41 76.29,-215.73 77.6,-208.86\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;History\nof\nStudy\nCircles -->\n<g id=\"edge7\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;History\nof\nStudy\nCircles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M303.59,-252.48C316.04,-259.82 330.63,-268.42 344.23,-276.43\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"342.59,-279.53 352.98,-281.59 346.15,-273.5 342.59,-279.53\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nSweden -->\n<g id=\"edge8\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nSweden</title>\n<path fill=\"none\" stroke=\"black\" d=\"M291.45,-199.97C305.13,-175.85 324.39,-143.02 343.02,-115.17 346.56,-109.89 350.37,-104.44 354.25,-99.07\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"357.27,-100.87 360.36,-90.73 351.62,-96.73 357.27,-100.87\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nAustralia -->\n<g id=\"edge9\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nAustralia</title>\n<path fill=\"none\" stroke=\"black\" d=\"M304.51,-218.6C314.67,-213.65 326.18,-208.05 337.38,-202.6\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"339.22,-205.6 346.68,-198.08 336.15,-199.31 339.22,-205.6\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;Study\ncircle\nbasics -->\n<g id=\"edge10\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;Study\ncircle\nbasics</title>\n<path fill=\"none\" stroke=\"black\" d=\"M188.24,-187.8C201.51,-195.28 216.74,-203.86 230.46,-211.6\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"228.79,-214.68 239.22,-216.54 232.23,-208.58 228.79,-214.68\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;History\nof\nStudy\nCircles -->\n<g id=\"edge11\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;History\nof\nStudy\nCircles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M165.34,-196.59C178.42,-223.92 202.14,-263.98 236.01,-284.17 266.91,-302.59 307.49,-306.94 339.19,-306.9\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"339.63,-310.4 349.57,-306.74 339.51,-303.4 339.63,-310.4\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;Study\nCircles\nin\nSweden -->\n<g id=\"edge12\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;Study\nCircles\nin\nSweden</title>\n<path fill=\"none\" stroke=\"black\" d=\"M190.33,-150.21C231.03,-130.39 296.66,-98.43 341.4,-76.65\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"343.15,-79.69 350.61,-72.16 340.09,-73.4 343.15,-79.69\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;Study\nCircles\nin\nAustralia -->\n<g id=\"edge13\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;Study\nCircles\nin\nAustralia</title>\n<path fill=\"none\" stroke=\"black\" d=\"M200.09,-169.95C238.14,-171.4 292.03,-173.46 332.63,-175\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"332.52,-178.5 342.64,-175.38 332.78,-171.51 332.52,-178.5\"/>\n</g>\n</g>\n</svg>\n"
+      },
+      "date": 1603026629141
+    },
+    {
+      "type": "edit",
+      "id": "f5790461b2ee3ff0",
+      "item": {
+        "type": "graphviz",
+        "id": "f5790461b2ee3ff0",
+        "text": "strict digraph {rankdir=LR\n\n\n\nnode [style=filled fillcolor=lightyellow penwidth=3 color=black]\n\"Study\ncircle\"\nnode [style=filled fillcolor=lightblue]\n\"Study\ncircle\" -> \"Study\ncircle\nbasics\"\n\"Study\ncircle\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nAustralia\"\n\"Study\ncircle\" -> \"Research\nGroup\"\nnode [style=filled fillcolor=white]\n\"Study\ncircle\nbasics\"\n\"Study\ncircle\nbasics\" -> \"Study\ncircle\"\n\"Study\ncircle\nbasics\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"History\nof\nStudy\nCircles\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nSweden\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"Research\nGroup\"\n\"Research\nGroup\" -> \"Study\ncircle\nbasics\"\n\"Research\nGroup\" -> \"History\nof\nStudy\nCircles\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nSweden\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nAustralia\"}",
+        "dot": "strict digraph {rankdir=LR\n\n\n\nnode [style=filled fillcolor=lightyellow penwidth=3 color=black]\n\"Study\ncircle\"\nnode [style=filled fillcolor=lightblue]\n\"Study\ncircle\" -> \"Study\ncircle\nbasics\"\n\"Study\ncircle\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nAustralia\"\n\"Study\ncircle\" -> \"Research\nGroup\"\nnode [style=filled fillcolor=white]\n\"Study\ncircle\nbasics\"\n\"Study\ncircle\nbasics\" -> \"Study\ncircle\"\n\"Study\ncircle\nbasics\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"History\nof\nStudy\nCircles\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nSweden\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"Research\nGroup\"\n\"Research\nGroup\" -> \"Study\ncircle\nbasics\"\n\"Research\nGroup\" -> \"History\nof\nStudy\nCircles\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nSweden\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nAustralia\"}",
+        "svg": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\"\n \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">\n<!-- Generated by graphviz version 2.44.0 (20200518.1210)\n -->\n<!-- Pages: 1 -->\n<svg width=\"446pt\" height=\"364pt\"\n viewBox=\"0.00 0.00 446.21 364.35\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<g id=\"graph0\" class=\"graph\" transform=\"scale(1 1) rotate(0) translate(4 360.35)\">\n<polygon fill=\"white\" stroke=\"transparent\" points=\"-4,4 -4,-360.35 442.21,-360.35 442.21,4 -4,4\"/>\n<!-- Study\ncircle -->\n<g id=\"node1\" class=\"node\">\n<title>Study\ncircle</title>\n<ellipse fill=\"lightyellow\" stroke=\"black\" stroke-width=\"3\" cx=\"34.42\" cy=\"-201.17\" rx=\"34.33\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"34.42\" y=\"-205.37\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"34.42\" y=\"-188.57\" font-family=\"Times,serif\" font-size=\"14.00\">circle</text>\n</g>\n<!-- Study\ncircle\nbasics -->\n<g id=\"node2\" class=\"node\">\n<title>Study\ncircle\nbasics</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"271.51\" cy=\"-234.17\" rx=\"35.51\" ry=\"41.09\"/>\n<text text-anchor=\"middle\" x=\"271.51\" y=\"-246.77\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"271.51\" y=\"-229.97\" font-family=\"Times,serif\" font-size=\"14.00\">circle</text>\n<text text-anchor=\"middle\" x=\"271.51\" y=\"-213.17\" font-family=\"Times,serif\" font-size=\"14.00\">basics</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Study\ncircle\nbasics -->\n<g id=\"edge1\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Study\ncircle\nbasics</title>\n<path fill=\"none\" stroke=\"black\" d=\"M69.1,-201C110.65,-204.54 181.37,-214.31 226.99,-222.68\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"226.42,-226.14 236.89,-224.56 227.72,-219.26 226.42,-226.14\"/>\n</g>\n<!-- History\nof\nStudy\nCircles -->\n<g id=\"node3\" class=\"node\">\n<title>History\nof\nStudy\nCircles</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"390.61\" cy=\"-303.17\" rx=\"41.01\" ry=\"53.35\"/>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-324.17\" font-family=\"Times,serif\" font-size=\"14.00\">History</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-307.37\" font-family=\"Times,serif\" font-size=\"14.00\">of</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-290.57\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-273.77\" font-family=\"Times,serif\" font-size=\"14.00\">Circles</text>\n</g>\n<!-- Study\ncircle&#45;&gt;History\nof\nStudy\nCircles -->\n<g id=\"edge2\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;History\nof\nStudy\nCircles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M60.93,-220.29C97.44,-246.3 167.75,-291.53 236.01,-308.17 270.01,-316.46 309.5,-314.95 339.92,-311.49\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"340.38,-314.96 349.87,-310.26 339.51,-308.02 340.38,-314.96\"/>\n</g>\n<!-- Study\nCircles\nin\nSweden -->\n<g id=\"node4\" class=\"node\">\n<title>Study\nCircles\nin\nSweden</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"390.61\" cy=\"-53.17\" rx=\"42.8\" ry=\"53.35\"/>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-74.17\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-57.37\" font-family=\"Times,serif\" font-size=\"14.00\">Circles</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-40.57\" font-family=\"Times,serif\" font-size=\"14.00\">in</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-23.77\" font-family=\"Times,serif\" font-size=\"14.00\">Sweden</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Study\nCircles\nin\nSweden -->\n<g id=\"edge3\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Study\nCircles\nin\nSweden</title>\n<path fill=\"none\" stroke=\"black\" d=\"M49.07,-174.47C60.98,-153.92 80.22,-126.52 104.83,-111.17 176.89,-66.27 277.25,-55.34 337.58,-53.12\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"337.75,-56.62 347.64,-52.82 337.54,-49.62 337.75,-56.62\"/>\n</g>\n<!-- Study\nCircles\nin\nAustralia -->\n<g id=\"node5\" class=\"node\">\n<title>Study\nCircles\nin\nAustralia</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"390.61\" cy=\"-177.17\" rx=\"47.69\" ry=\"53.35\"/>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-198.17\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-181.37\" font-family=\"Times,serif\" font-size=\"14.00\">Circles</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-164.57\" font-family=\"Times,serif\" font-size=\"14.00\">in</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-147.77\" font-family=\"Times,serif\" font-size=\"14.00\">Australia</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Study\nCircles\nin\nAustralia -->\n<g id=\"edge4\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Study\nCircles\nin\nAustralia</title>\n<path fill=\"none\" stroke=\"black\" d=\"M52.09,-175.71C64.45,-159.31 82.91,-139.4 104.83,-130.17 181.62,-97.86 278.77,-127.34 337.46,-151.98\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"336.32,-155.3 346.89,-156.04 339.09,-148.87 336.32,-155.3\"/>\n</g>\n<!-- Research\nGroup -->\n<g id=\"node6\" class=\"node\">\n<title>Research\nGroup</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"152.42\" cy=\"-168.17\" rx=\"47.68\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"152.42\" y=\"-172.37\" font-family=\"Times,serif\" font-size=\"14.00\">Research</text>\n<text text-anchor=\"middle\" x=\"152.42\" y=\"-155.57\" font-family=\"Times,serif\" font-size=\"14.00\">Group</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Research\nGroup -->\n<g id=\"edge5\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Research\nGroup</title>\n<path fill=\"none\" stroke=\"black\" d=\"M67.42,-192.07C77.18,-189.29 88.17,-186.17 98.91,-183.11\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"100,-186.44 108.66,-180.34 98.08,-179.71 100,-186.44\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;Study\ncircle -->\n<g id=\"edge6\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;Study\ncircle</title>\n<path fill=\"none\" stroke=\"black\" d=\"M235.88,-234.27C193.67,-230.61 122.4,-220.73 77.19,-212.34\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"77.6,-208.86 67.12,-210.41 76.29,-215.73 77.6,-208.86\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;History\nof\nStudy\nCircles -->\n<g id=\"edge7\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;History\nof\nStudy\nCircles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M303.59,-252.48C316.04,-259.82 330.63,-268.42 344.23,-276.43\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"342.59,-279.53 352.98,-281.59 346.15,-273.5 342.59,-279.53\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nSweden -->\n<g id=\"edge8\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nSweden</title>\n<path fill=\"none\" stroke=\"black\" d=\"M291.45,-199.97C305.13,-175.85 324.39,-143.02 343.02,-115.17 346.56,-109.89 350.37,-104.44 354.25,-99.07\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"357.27,-100.87 360.36,-90.73 351.62,-96.73 357.27,-100.87\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nAustralia -->\n<g id=\"edge9\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nAustralia</title>\n<path fill=\"none\" stroke=\"black\" d=\"M304.51,-218.6C314.67,-213.65 326.18,-208.05 337.38,-202.6\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"339.22,-205.6 346.68,-198.08 336.15,-199.31 339.22,-205.6\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;Study\ncircle\nbasics -->\n<g id=\"edge10\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;Study\ncircle\nbasics</title>\n<path fill=\"none\" stroke=\"black\" d=\"M188.24,-187.8C201.51,-195.28 216.74,-203.86 230.46,-211.6\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"228.79,-214.68 239.22,-216.54 232.23,-208.58 228.79,-214.68\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;History\nof\nStudy\nCircles -->\n<g id=\"edge11\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;History\nof\nStudy\nCircles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M165.34,-196.59C178.42,-223.92 202.14,-263.98 236.01,-284.17 266.91,-302.59 307.49,-306.94 339.19,-306.9\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"339.63,-310.4 349.57,-306.74 339.51,-303.4 339.63,-310.4\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;Study\nCircles\nin\nSweden -->\n<g id=\"edge12\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;Study\nCircles\nin\nSweden</title>\n<path fill=\"none\" stroke=\"black\" d=\"M190.33,-150.21C231.03,-130.39 296.66,-98.43 341.4,-76.65\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"343.15,-79.69 350.61,-72.16 340.09,-73.4 343.15,-79.69\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;Study\nCircles\nin\nAustralia -->\n<g id=\"edge13\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;Study\nCircles\nin\nAustralia</title>\n<path fill=\"none\" stroke=\"black\" d=\"M200.09,-169.95C238.14,-171.4 292.03,-173.46 332.63,-175\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"332.52,-178.5 342.64,-175.38 332.78,-171.51 332.52,-178.5\"/>\n</g>\n</g>\n</svg>\n"
+      },
+      "date": 1603190133668
+    }
+  ],
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "46bb061c-80f5-4f8c-a228-c426c5607a4d",
+      "text": "A study circle is a small group of people who meet multiple times to discuss an issue. Study circles may be formed to discuss anything from politics to religion to hobbies - [https://en.wikipedia.org/wiki/Study_circle wikipedia]"
+    },
+    {
+      "type": "paragraph",
+      "id": "e24dcf4da3c62524",
+      "text": "They are differentiated from clubs by their focus on exploring an issue or topic rather than on activities or socializing. When they emerged in the early twentieth century they were based on a democratic approach to self-education and were often linked to social movements concerned with temperance or working class emancipation."
+    },
+    {
+      "type": "markdown",
+      "id": "58e1398605857e87",
+      "text": "# Context"
+    },
+    {
+      "type": "graphviz",
+      "id": "f5790461b2ee3ff0",
+      "text": "strict digraph {rankdir=LR\n\n\n\nnode [style=filled fillcolor=lightyellow penwidth=3 color=black]\n\"Study\ncircle\"\nnode [style=filled fillcolor=lightblue]\n\"Study\ncircle\" -> \"Study\ncircle\nbasics\"\n\"Study\ncircle\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nAustralia\"\n\"Study\ncircle\" -> \"Research\nGroup\"\nnode [style=filled fillcolor=white]\n\"Study\ncircle\nbasics\"\n\"Study\ncircle\nbasics\" -> \"Study\ncircle\"\n\"Study\ncircle\nbasics\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"History\nof\nStudy\nCircles\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nSweden\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"Research\nGroup\"\n\"Research\nGroup\" -> \"Study\ncircle\nbasics\"\n\"Research\nGroup\" -> \"History\nof\nStudy\nCircles\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nSweden\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nAustralia\"}",
+      "dot": "strict digraph {rankdir=LR\n\n\n\nnode [style=filled fillcolor=lightyellow penwidth=3 color=black]\n\"Study\ncircle\"\nnode [style=filled fillcolor=lightblue]\n\"Study\ncircle\" -> \"Study\ncircle\nbasics\"\n\"Study\ncircle\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\" -> \"Study\nCircles\nin\nAustralia\"\n\"Study\ncircle\" -> \"Research\nGroup\"\nnode [style=filled fillcolor=white]\n\"Study\ncircle\nbasics\"\n\"Study\ncircle\nbasics\" -> \"Study\ncircle\"\n\"Study\ncircle\nbasics\" -> \"History\nof\nStudy\nCircles\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nSweden\"\n\"Study\ncircle\nbasics\" -> \"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"History\nof\nStudy\nCircles\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nSweden\"\nnode [style=filled fillcolor=white]\n\"Study\nCircles\nin\nAustralia\"\nnode [style=filled fillcolor=white]\n\"Research\nGroup\"\n\"Research\nGroup\" -> \"Study\ncircle\nbasics\"\n\"Research\nGroup\" -> \"History\nof\nStudy\nCircles\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nSweden\"\n\"Research\nGroup\" -> \"Study\nCircles\nin\nAustralia\"}",
+      "svg": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\"\n \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">\n<!-- Generated by graphviz version 2.44.0 (20200518.1210)\n -->\n<!-- Pages: 1 -->\n<svg width=\"446pt\" height=\"364pt\"\n viewBox=\"0.00 0.00 446.21 364.35\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<g id=\"graph0\" class=\"graph\" transform=\"scale(1 1) rotate(0) translate(4 360.35)\">\n<polygon fill=\"white\" stroke=\"transparent\" points=\"-4,4 -4,-360.35 442.21,-360.35 442.21,4 -4,4\"/>\n<!-- Study\ncircle -->\n<g id=\"node1\" class=\"node\">\n<title>Study\ncircle</title>\n<ellipse fill=\"lightyellow\" stroke=\"black\" stroke-width=\"3\" cx=\"34.42\" cy=\"-201.17\" rx=\"34.33\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"34.42\" y=\"-205.37\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"34.42\" y=\"-188.57\" font-family=\"Times,serif\" font-size=\"14.00\">circle</text>\n</g>\n<!-- Study\ncircle\nbasics -->\n<g id=\"node2\" class=\"node\">\n<title>Study\ncircle\nbasics</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"271.51\" cy=\"-234.17\" rx=\"35.51\" ry=\"41.09\"/>\n<text text-anchor=\"middle\" x=\"271.51\" y=\"-246.77\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"271.51\" y=\"-229.97\" font-family=\"Times,serif\" font-size=\"14.00\">circle</text>\n<text text-anchor=\"middle\" x=\"271.51\" y=\"-213.17\" font-family=\"Times,serif\" font-size=\"14.00\">basics</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Study\ncircle\nbasics -->\n<g id=\"edge1\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Study\ncircle\nbasics</title>\n<path fill=\"none\" stroke=\"black\" d=\"M69.1,-201C110.65,-204.54 181.37,-214.31 226.99,-222.68\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"226.42,-226.14 236.89,-224.56 227.72,-219.26 226.42,-226.14\"/>\n</g>\n<!-- History\nof\nStudy\nCircles -->\n<g id=\"node3\" class=\"node\">\n<title>History\nof\nStudy\nCircles</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"390.61\" cy=\"-303.17\" rx=\"41.01\" ry=\"53.35\"/>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-324.17\" font-family=\"Times,serif\" font-size=\"14.00\">History</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-307.37\" font-family=\"Times,serif\" font-size=\"14.00\">of</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-290.57\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-273.77\" font-family=\"Times,serif\" font-size=\"14.00\">Circles</text>\n</g>\n<!-- Study\ncircle&#45;&gt;History\nof\nStudy\nCircles -->\n<g id=\"edge2\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;History\nof\nStudy\nCircles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M60.93,-220.29C97.44,-246.3 167.75,-291.53 236.01,-308.17 270.01,-316.46 309.5,-314.95 339.92,-311.49\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"340.38,-314.96 349.87,-310.26 339.51,-308.02 340.38,-314.96\"/>\n</g>\n<!-- Study\nCircles\nin\nSweden -->\n<g id=\"node4\" class=\"node\">\n<title>Study\nCircles\nin\nSweden</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"390.61\" cy=\"-53.17\" rx=\"42.8\" ry=\"53.35\"/>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-74.17\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-57.37\" font-family=\"Times,serif\" font-size=\"14.00\">Circles</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-40.57\" font-family=\"Times,serif\" font-size=\"14.00\">in</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-23.77\" font-family=\"Times,serif\" font-size=\"14.00\">Sweden</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Study\nCircles\nin\nSweden -->\n<g id=\"edge3\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Study\nCircles\nin\nSweden</title>\n<path fill=\"none\" stroke=\"black\" d=\"M49.07,-174.47C60.98,-153.92 80.22,-126.52 104.83,-111.17 176.89,-66.27 277.25,-55.34 337.58,-53.12\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"337.75,-56.62 347.64,-52.82 337.54,-49.62 337.75,-56.62\"/>\n</g>\n<!-- Study\nCircles\nin\nAustralia -->\n<g id=\"node5\" class=\"node\">\n<title>Study\nCircles\nin\nAustralia</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"390.61\" cy=\"-177.17\" rx=\"47.69\" ry=\"53.35\"/>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-198.17\" font-family=\"Times,serif\" font-size=\"14.00\">Study</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-181.37\" font-family=\"Times,serif\" font-size=\"14.00\">Circles</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-164.57\" font-family=\"Times,serif\" font-size=\"14.00\">in</text>\n<text text-anchor=\"middle\" x=\"390.61\" y=\"-147.77\" font-family=\"Times,serif\" font-size=\"14.00\">Australia</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Study\nCircles\nin\nAustralia -->\n<g id=\"edge4\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Study\nCircles\nin\nAustralia</title>\n<path fill=\"none\" stroke=\"black\" d=\"M52.09,-175.71C64.45,-159.31 82.91,-139.4 104.83,-130.17 181.62,-97.86 278.77,-127.34 337.46,-151.98\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"336.32,-155.3 346.89,-156.04 339.09,-148.87 336.32,-155.3\"/>\n</g>\n<!-- Research\nGroup -->\n<g id=\"node6\" class=\"node\">\n<title>Research\nGroup</title>\n<ellipse fill=\"lightblue\" stroke=\"black\" stroke-width=\"3\" cx=\"152.42\" cy=\"-168.17\" rx=\"47.68\" ry=\"29.33\"/>\n<text text-anchor=\"middle\" x=\"152.42\" y=\"-172.37\" font-family=\"Times,serif\" font-size=\"14.00\">Research</text>\n<text text-anchor=\"middle\" x=\"152.42\" y=\"-155.57\" font-family=\"Times,serif\" font-size=\"14.00\">Group</text>\n</g>\n<!-- Study\ncircle&#45;&gt;Research\nGroup -->\n<g id=\"edge5\" class=\"edge\">\n<title>Study\ncircle&#45;&gt;Research\nGroup</title>\n<path fill=\"none\" stroke=\"black\" d=\"M67.42,-192.07C77.18,-189.29 88.17,-186.17 98.91,-183.11\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"100,-186.44 108.66,-180.34 98.08,-179.71 100,-186.44\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;Study\ncircle -->\n<g id=\"edge6\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;Study\ncircle</title>\n<path fill=\"none\" stroke=\"black\" d=\"M235.88,-234.27C193.67,-230.61 122.4,-220.73 77.19,-212.34\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"77.6,-208.86 67.12,-210.41 76.29,-215.73 77.6,-208.86\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;History\nof\nStudy\nCircles -->\n<g id=\"edge7\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;History\nof\nStudy\nCircles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M303.59,-252.48C316.04,-259.82 330.63,-268.42 344.23,-276.43\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"342.59,-279.53 352.98,-281.59 346.15,-273.5 342.59,-279.53\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nSweden -->\n<g id=\"edge8\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nSweden</title>\n<path fill=\"none\" stroke=\"black\" d=\"M291.45,-199.97C305.13,-175.85 324.39,-143.02 343.02,-115.17 346.56,-109.89 350.37,-104.44 354.25,-99.07\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"357.27,-100.87 360.36,-90.73 351.62,-96.73 357.27,-100.87\"/>\n</g>\n<!-- Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nAustralia -->\n<g id=\"edge9\" class=\"edge\">\n<title>Study\ncircle\nbasics&#45;&gt;Study\nCircles\nin\nAustralia</title>\n<path fill=\"none\" stroke=\"black\" d=\"M304.51,-218.6C314.67,-213.65 326.18,-208.05 337.38,-202.6\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"339.22,-205.6 346.68,-198.08 336.15,-199.31 339.22,-205.6\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;Study\ncircle\nbasics -->\n<g id=\"edge10\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;Study\ncircle\nbasics</title>\n<path fill=\"none\" stroke=\"black\" d=\"M188.24,-187.8C201.51,-195.28 216.74,-203.86 230.46,-211.6\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"228.79,-214.68 239.22,-216.54 232.23,-208.58 228.79,-214.68\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;History\nof\nStudy\nCircles -->\n<g id=\"edge11\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;History\nof\nStudy\nCircles</title>\n<path fill=\"none\" stroke=\"black\" d=\"M165.34,-196.59C178.42,-223.92 202.14,-263.98 236.01,-284.17 266.91,-302.59 307.49,-306.94 339.19,-306.9\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"339.63,-310.4 349.57,-306.74 339.51,-303.4 339.63,-310.4\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;Study\nCircles\nin\nSweden -->\n<g id=\"edge12\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;Study\nCircles\nin\nSweden</title>\n<path fill=\"none\" stroke=\"black\" d=\"M190.33,-150.21C231.03,-130.39 296.66,-98.43 341.4,-76.65\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"343.15,-79.69 350.61,-72.16 340.09,-73.4 343.15,-79.69\"/>\n</g>\n<!-- Research\nGroup&#45;&gt;Study\nCircles\nin\nAustralia -->\n<g id=\"edge13\" class=\"edge\">\n<title>Research\nGroup&#45;&gt;Study\nCircles\nin\nAustralia</title>\n<path fill=\"none\" stroke=\"black\" d=\"M200.09,-169.95C238.14,-171.4 292.03,-173.46 332.63,-175\"/>\n<polygon fill=\"black\" stroke=\"black\" points=\"332.52,-178.5 342.64,-175.38 332.78,-171.51 332.52,-178.5\"/>\n</g>\n</g>\n</svg>\n"
+    },
+    {
+      "type": "markdown",
+      "id": "d3ef98f3-9c2d-4fa5-9c04-0ced62ce7af1",
+      "text": "# See also\n\n- [[Study circle basics]]\n- [[History of Study Circles]]\n- [[Study Circles in Sweden]]\n- [[Study Circles in Australia]]\n- [[Research Group]]\n"
+    },
+    {
+      "type": "markdown",
+      "id": "e83de0d627c0e249",
+      "text": "# References\n- Study Circle. Swedish method of adult education - [https://ec.europa.eu/epale/en/blog/study-circle-swedish-method-adult-education europa.eu]\n"
+    }
+  ]
+}
