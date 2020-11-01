@@ -1,0 +1,69 @@
+{
+  "journal": [
+    {
+      "date": 1420938191608,
+      "type": "create",
+      "item": {
+        "story": "",
+        "title": "Welcome Visitors"
+      }
+    },
+    {
+      "type": "fork",
+      "date": 1549533901259
+    },
+    {
+      "type": "remove",
+      "id": "4fbdcb0a97b7b6fb",
+      "date": 1603024878932
+    },
+    {
+      "type": "remove",
+      "id": "3c75a01d021c8409",
+      "date": 1603024881790
+    },
+    {
+      "type": "edit",
+      "id": "7f6459b61d485407",
+      "item": {
+        "type": "markdown",
+        "id": "7f6459b61d485407",
+        "text": "# Activity\n  \n- [[Activity]]\n- [[Changes to this Site]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]"
+      },
+      "date": 1603024914781
+    }
+  ],
+  "title": "Welcome Visitors",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "26bf9f9b663585b3",
+      "text": "The [[Outlandish Academy]] is a P2P framework for creating online and offline learning experiences. To talk to us please drop into one of:"
+    },
+    {
+      "text": "# Drop in\n\n- To our chat - [https://vector.im/beta/#/room/#fedwiki:matrix.org vector.im]\n- Face chat - [https://appear.in/fedwiki https://appear.in/fedwiki appear.in]",
+      "id": "8e721f0df3ae5d1f",
+      "type": "markdown"
+    },
+    {
+      "text": "# Topics\n\n- [[Platform Earth Activity]]\n- [[Hugo]]\n- [[Liquid Democracy]]\n- [[Democratic Preference]]\n- [[Power of Fork]]\n",
+      "id": "ac5a3caf324ddf17",
+      "type": "markdown"
+    },
+    {
+      "text": "# Core Proposal\n\n- [[Crowd Streaming]]\n- [[U2U Conversations]]\n- [[Academy Methodology]]\n- [[Research Group]]\n- [[Learning Roles]]\n- [[Learning Passport]]\n- [[Agile Teaching]]\n- [[Nomadic Teaching]]\n",
+      "id": "cb931681174bedc9",
+      "type": "markdown"
+    },
+    {
+      "type": "markdown",
+      "id": "7f6459b61d485407",
+      "text": "# Activity\n  \n- [[Activity]]\n- [[Changes to this Site]]\n- [[Drop in]] to our Fedwiki chat - [https://riot.im/app/#/room/#fedwiki:matrix.org riot.im]"
+    },
+    {
+      "text": "NEIGHBORHOOD no\nNARRATIVE\nSINCE 5 days",
+      "id": "e9e9f102158e1382",
+      "type": "activity"
+    }
+  ]
+}
